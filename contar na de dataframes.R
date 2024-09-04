@@ -7,6 +7,8 @@ options(max.print=999999)
 
 #contar na's
 
+install.packages("openxlsx")
+
 version #4.4.1
 getwd()
 
