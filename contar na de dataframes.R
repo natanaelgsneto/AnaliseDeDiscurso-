@@ -5,7 +5,7 @@ print(missing_counts)
 
 options(max.print=999999)
 
-#
+#contar na's
 
 version #4.4.1
 getwd()
