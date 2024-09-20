@@ -1,0 +1,309 @@
+install.packages("tm")
+install.packages("stringr")
+library(tm)
+library(stringr)
+
+# Carregar o texto (pode ser de um arquivo ou diretamente)
+texto <- "Gráficos lindos. Então o que vocês puderem falar sobre as danças que vocês conhecem os mais antigos, por exemplo, pode falar muito foi um sucesso na outra Aldeia com os mais antigos falando sobre sua época, quando tinham que tinha de dança essas coisas os cantos, né? Os artesanatos e o grafismo indígena, essa é a primeira parte, então vamos Natália não tá mas ela deve ter ido na cozinha olhar alguma coisa lá, já já ela volta e eu contextualizou ela o que que trata. Tá certo. Vamos lá gostaríamos de ouvir. Vocês tá sendo gravado, porque depois a gente vai transformar isso em gráficos é a pesquisa trabalha desse jeito e estejam à vontade, por exemplo sobre as danças, sou buscas do tempo de vocês do tempo da gente quanto mais lá nas raízes lá nas raízes.
+
+
+Se tinha alguma dança na mão de vocês os pais de vocês que lembra É na época, eu conheci o meu pai ele dançando um côco de Rosa, né? E assim eu me surpreendi porque eu não conhecia a dança e eu fui criada, né no evangelho e eu eu não sabia o que era que ele tava fazendo aí depois foi que me explicaram né? Que era a dança um pouco de rosa e toda sexta-feira tinha corpo de roda lá na na onde a gente morava que era uma barraca que tinha chamado do do rapaz. O nome dele era pistola aí na frente da casa dele, tinha um terraço que o pessoal dançava coco de roda e também Lapinha. Inclusive, eu também coloquei lá Natália para dança.
+
+
+Sim, é que eu eu achava muito bonito e assim eu gostava muito da da Lapinha. E também eu já dancei muita quadrilha na época, eu gostava muito de quadrilha. Quer dizer que Natália já dançou lá tinha também. Ai que bom e quadrilha as festas juninas, né? Também eu gostava muito de dançar, na verdade era muito dançado com certeza muito feliz, estava muito é Forró música lenta amiga romântica todo tipo de música dançar.
+
+
+Agora não gosta nada falou eu como mais velho da família não, pode ser que meu pai ele gostar desse tipo de dançar no final de semana. Tava lá era uma alegria voava assim enrolando aquilo ali e meu pai gostava muito disso, Doutor Renato passou ontem os trambiqueiro não da cama da passageiro nesse lado de morador aqui passar uma moça bonitinha, ela sendo bonitinha me pediu uma câmera não é repetido. Eu quero ver poeira voar. Quero que ele tem umas três vezes.
+
+
+Só que essa essa cantiga aí da quero ver poeira voar assim, o senhor lembra o que eles fazia, né? Ela quer que você cante para gravar a poeira voar Doutor Renato, passa a ordem da cana passageiro nem tomar de morador, mas se passar uma moça bonitinha ela sendo bonitinha me pedindo a cama eu dou aí cantava na na na música dele é um negócio simples é sim sim, é aí ele disse quero ver quero ver deixa eu me lembrar poeira voar aquela música assim, eh, eh esse enredo assim, né? E tem outra deixa eu me lembro depois eu me lembro era as coisas do passado que o presenciava um dia, mas o menino.
+
+
+Para aqui não para. Fecha aqui procura ali embaixo, era é ser um dedo não era nada e de uma cirandeira tava já era também era Tabajara. Sim sim era não era não era era abrir o Boris e vocês aí quando era pequeno tua mãe tua voz papai gostava muito de Asa Branca, gostava muito de Luiz Gonzaga e mãe era mais cantiga de ninar de dois e dois dois anos, mas tinha um menino para menina minha companheira e a gente sempre acompanhou ela nessa mesa depois daquela preta, né?
+  
+  
+  Examinar, né? Que era muito presente música antiga aquela cantada, né? Obrigada canta canta essa música para a gente gravar aqui vai vai Edinaldo também junto, mas aqui todo mundo sabe, esse é vamos cantar todo mundo essa aqui diz que é hoje em dia os evangélicos não canta mais minha mãe trazer isso da minha avó que ela era evangélica e ela trabalha lá.
+
+
+Cala a boca ainda vou Jurema fina o rei dos índio mandou chamar acabou comigo arrependimento acompanhava era o que era cantado, né? Como todas as músicas nem falava isso, né? Vó João bolinho. Quando o tio João chegou aqui aí ele disse oxente, esse vizinho tá com os outros agora quando foi lá para Barra de gramame aí cantou cantou essa pedra fina, né aí.
+
+
+Aí tiozão disse assim. Ah escuta aí e aí aqui. O João falou Ôxe essa música foi que mãe falava cantava ali assim como como ficou assim vou Como assim antigo essa essa música aí é da pedra fina foi que a os avós da gente cantava na rainha e vocês é ainda gostam de cantar morreu com 93 anos e eu vi ele cantando parece que parece que o da pedra fina é alguma coisa. O tio Isso foi em 2008 2009 contra o Guaravita cantou cantou essa música é que a equipe do São João essa
+
+
+A minha mãe e minha vó cantava como é que ele se cantava que não tá na beira traição e outro aqui no circo dos caboclo, né? É porque é uma coisa bem bem antiga, né? Mas Alguém gostaria de falar eu vi que Natália tava falando aí na hora que o cacique tava falando Natália, tu fala tu tenta falar um pouco mais alto. Só porque não tá gravando porque isso aqui ele é compositor e ele tem muito enredo de música. Aí eu tô mandando ele falar das músicas. Pera aí eu vou falar uma música de Tabajara e Potiguara aí que eu tô do Marimbondo. Ai caramba.
+
+
+E deu também desenho só dá uma bajara sou Tabajara da Gema a força do Tabajara, tá no tronco da zebra tudo composição sua e todo mundo puxa e canta. Deixa eu lembrar uma aqui que eu fiz um agora pouco, mas não vai chegar na mente. Se não for aqui que eu gravei então compositor, então tem não, eu fiz uma igreja, faço o hino para igreja também compositora, minha filha, já já espiritualidade. Você vai falar vamos ouvir agora vai. Dora enquanto ele procura a chave a chave do meu tesouro Jesus me manda e a chave a chave do meu tesouro. Vou abrir o santo sacrário com minha chave de ouro, como abriu no rio eu me banhei na na
+
+
+No mar eu molhei o pé na mata, eu fiz o fogo para pegar o meu rapé depois botei minhas vestes e balancei o Maracá, fui buscar a minha cura lá no pé de Jatobá, gente. Que lindo isso você é a autora disso. Olha só que bonito esse refrão desde criança Jesus me manda e a chave eu tenho desde criança. Aí eu terminei eh esse ano né aqui brincando no grupo eu vendo mais a minhas meninas minha sobrinha, minha filha, cada um falou Hum, entendeu? Que bacana gente saiu uma cura, né? Que eu gosto muito do Jatobá, gosto da Fé dessa gosto da das era uma planta de cura, né? Já tô mais cura tudo né? Aí eu já tô.
+
+
+A semente tem o pé sim, quem sabe sabe eu trouxe ele dentro de uma bolsa nas costas, ele já tá subindo nele, né?
+  
+  
+  Algum chama tomate, né? Ah, isso é interessante. O rapé é usado há muito tempo você fala de uma coisa aí em cima do que você fala eu eu invento um.
+
+
+Darem danças cantos na literatura como é que vocês estão ou se tem coisas por exemplo tem áreas que Viviane tem uma pesquisa agora do doutorado dela que eu também estou na orientação dela e é lá no Cariri São Domingos, São Domingos do Cariri então lá. Possivelmente a gente vai encontrar os Repentes, né as colocado aí naqueles Livres pequenininhos que a literatura de cordel em cordel, é aí é por isso que na literatura que tem algo a destacar livro lindo por nós ninguém biografia essas coisas áudios assim que a gente vai ter que começar já ir para essa linha, né? Ela não não consiga por nós dizemos. Mas a gente pode construir é só querer é como você faz um verso você passa a mão papel.
+
+
+Uma História bonita que eu tô falando é é que os Tabajara nosso não tem prática do do cordel ainda não se interessou, né, mas lá nas raízes também não interessei e você escreveu, mas se você for escrever no inglês, né moralidade falavam passava por que na na nas antigas não tinha televisão contava história de Comadre Florzinha de Cala a foice de pai do Mangue de papagaio de Curupira é de alma, né exatamente essas histórias é que saiu.
+
+
+Se um cordel mas ninguém sabe escrever 90% dos homens era na naturalidade mesmo, né? Uma história e vai passando de um para o outro sim, passava a noite na casa dos pais, mas antigamente um quintal, era isso atrás de casa e na frente vamos para o terreiro conversar fazer uma fogueirinha ali e aquela conversa gostosa hoje não hoje não vai juntar um monte de gente. Vamos pular para cá, vamos para casa dele homem de mulher, feijão e debulhado a diversidade de Cultura de piada de sempre fazer um evento bem bonito lá na capital e tivesse necessidade dos contatos dos contadores ou contadora de história.
+
+
+Tinha gente aqui para contar a história, né? Olha que lindos atrás, às vezes eu ia para ver na praia lá vai ficar olhando aí pegava fogo lá na pedra e vinha queimando que começasse aqui no meio e fica naquele fogo lá e vem vem eu vi aí eu perguntava mãe morreu aí outra vez, ele passou um monte.
+
+
+O mangue Sabe aquela igreja foi Emmanuel, mas quando chegar lá, mas o negão lá sentar na cabeça, quando estou é só devia ter para enxergar que a gente quando eu fui para um lado eu fui para outro e mãe seguiu em frente aí daqui a pouco quando mais viu o bicho lá sentado no toco aí mãe, voltou Manoel disseram bora bora bora José mãe. Chegou agora. Bora bora bora bora bora bora continuar porque ele perde a pessoa era um pai de mãe esses seres são como protetores, né das águas do Mato do Mangue, ele faz essa cestinha depois mas será que não é não é para proteger a natureza hoje as pessoas pensam, né? Mas isso são as coisas realmente prote.
+
+
+De quem vai caçar espingarda se você saísse para mata e desce o primeiro tiro se arrasta e descer o segundo errado podia voltar que nesse dia você não botava nada não tinha autorização de um carro de uma uma ave grande atirei nela que ela nos meus pés, quando eu olhei para o chão não vi nada ela voou de atrás de mim. Sumiu, eu derrubei de novo o outro tiro, ela caiu no meus pés de novo. Depois ela aí eu já sabia que não era um Passarinho, né? Depois pertinho de mim assim eu fui embora, mas hoje eu tô mais chama de capeta, né, mas é a mente de cada um ele pode chamar de cabeça a natureza, você pode não deve ser eu posso passar com você.
+
+
+Realmente diferente. Calma, tem que respeitar a máquina seu Guardião os rios e O Guardião. A gente é que não entendi não vai contar do Rio também é pescadores aí é pescar no Rio e anzol pegar peixe. Aí ele disse que tinha um Camaro aqui com ele também de levava um pedaço de fumo botava lá para a mãe d'água pegar no canto lá e ele podia pescar ele trazia bastante peixe, mas quando ele não levava ele não trazia não encontraria. Acho que ele se perde a cabeça permissão, ele contava com essa história coisa linda. Falei pai também ele quando ele caçar a perna Caçador aí ele teve um dia ele foi caçar e quando chegou lá e o cachorro bateu tatu não coteiro. Aí ele saiu correndo atrás da Cutia aí puxou lá na frente aí um lado falou assim que tava montado.
+
+
+Você deu uma pisa no cachorro caçando o cachorro gritando, ganhei gay gay gay gay gay é uma pisa tangram de cachorro morreu ou seja, não era para entrar ali naquela hora naquele momento aí pronto aí pai se perdeu passou a noite todinha disse que era um vento tão grande era para você quebrando com tudo que é canto e perdeu ele ele ficou passando a noite todinha e não conseguiu não conseguiu chegar em casa aí quando foi de mão que amanheceu o dedo tá em casa aconteceu comigo e ela pode contar a história para mim não contar para dizer que você contar história em Barra de Gramado, então como é que foi Mandacaru ele termina e tem um outro não esse aqui já falou não ele é depois sonha, tá? É só vir para cá, tem um dia que ele tava eu tava em casa, aí tava tinha aquele negócio do do Big Brother.
+
+
+Tinha um pessoal lá que tava para ganhar aí Fiquei assistindo aí a mulher aí ficamos assistindo para ver quem era o ganhador. A Gente Bota aí isso era tarde era bem 12 horas, quer café café de nada, eu peguei e me levantei aí tinha um lá para trás e só veio quando eu tiver uma cadeira de balanço e fiquei lá até debaixo do pé de cajá e o cachorro aquele celularzinho pequenininho que tem uma lanterna assim, porque aquele negócio ali começou a andar aqui o portão que era mais ou menos aqui assim voltando devagarzinho tá olhando aí.
+
+
+Matei há uma visão lá em Mandacaru, pensei que era o corpo do menino que o menino que era raposa que eu pensava que era não foi com ele quando ele sentou aqui ele onde se espanta e ele não ele não caiu nada disso. Aí ele foi se embora não sentei lá, fiquei lá de novo 15 minutos lá vem de novo pelo outro lado. Fechei aqui com o dedo aqui. Ó, ele entrou eu pensei que era um pouco eu fiquei calado, não foi no outro dia André, minha filha.
+
+
+Tá tá em casa foi feita desse Mário pai, essa noite, eu sonhei e um bicho ele tava lá pelo portão pegava o Senhor e ele tá aqui para ver para pegar a gente foi mesmo. O bicho ele vem só quando eu abri o portão, mas ele veio duas vezes que mais assim agora é a sua vez, né? A outra do conto viu do Conde para ali, minha irmã ali que ela que ela sabe se ele está aqui também sabe e a gente morava numa casa aqui no ponto aí que o pé de jaca bem grande já quero bem alto, ninguém podia nem subir que ele era bem doce de noite sim. Aí ela já que corria para pegar para chegar lá e fala que a gente nunca.
+
+
+É que foi é para todo lado, pagava as letras e carne para delicada no outro dia lá não tinha já que tinha nada e isso lá em Mandacaru de oração, minha mãe já era evangélica. Aí ela aí de noite, eu dormi a minha irmã na sala, aí ficava mexendo na chave a chave tinha o Cabinho aí quebra quebrado, né quebrado? Aí fica seca de abelha como quiser melhor Emanuel tá deitado. Ele tá mexendo na porta ninguém aí depois com o tempo foi que ela contou revelou que ali naquela casa tinha sete naquela casa, muita pressa que ficaram lá e não quiseram sair mais tarde.
+
+
+Ah Satanás falar de Deus, diz que Satanás veio matar roubar e destruir e ele se apresenta ele faz muitas muitas coisas que é para espantar para o teu depoimento, tá ligado? A a uma questão, por exemplo de uma casa que tinha essas entidades já vão voltar de novo a parte da natureza que é outra coisa, né? Ou não? Existe, por exemplo existe João cafuzo tudo é da parte do inimigo. Tem lá é que fala lá é jogo de Galaxy lá no Mangue. Eh, eh pai do Mangue na mata florzinha, né? Ele eles eles eles estão protegendo a natureza. Será que realmente ele se mas são protetores não é ou não exatamente deixou Os protetores da Mata, então é muito.
+
+
+Do da casa que é outra situação, o doce do lobisomem é outra situação, né? São situações bem diferentes, né? O que aconteceu comigo lá no baile de Gama com a minha esposa. E essa foi do Mateus na mata há muito tempo. Você não conhece aquela coisa dela. Vou deixar sua conta tá? Porque se eu contar fica sem graça vai acontecer comigo e ela estava comigo é melhor que ela conta porque ela é produção a gente foi era época de de Caju e a gente morava no Mandacaru ainda, né? Então a gente tinha muita dificuldade de adquirir fruta, né? Tudo era muito caro como todo mundo sabe, né? Que mora na cidade ali queria uma puta eh saudável, né do momento e você tem que né? Então aí a gente foi pegar Caju Therm.
+
+
+A união lá na barra de gramame. Aí a gente foi pegar a casinha aí quando a gente pegou o caju que a gente vinha saindo aí a gente escutou uma Subiu. Aí ele começou a assoviar aí o assobio começava a repetir aí ele também repetia o dele e concluindo tudo eu olhei ele disse o caminho é aqui eu disse é não o caminho é aqui o caminho é esse. Eu disse não o caminho é esse não, mas o caminho tá todo Limpo, você não tá vendo não que o caminho tá limpa eu digo não esse caminho tá fechado, não tem como a gente passar por aí o caminho é esse ele não o caminho é foi se embora eu pelo amor de Deus volta e o assobio sabe chamando ele longe tá perto quando?
+
+
+Aí eu fazia bem-te embora bendito, ele fazia tudo tá cega Sônia, tu não tá vendo não que o caminho é esse eu digo o caminho é esse vendido não se você quiser por aí, você vai que o caminho é esse. Você vai se rasgar suas pernas todinha nas antigas, eu digo quem vai é tu pelo amor de Deus. Vem te embora Benito e ficou aquela luta e ele ainda andou um pedaço bom e eu parada eu digo meu Deus. Vem te embora bendito e não é aquilo tu vai cair dentro dessa Grota bendito é uma Grota bem. Funda ela ele aqui dentro e aqui ele descia entendeu? E o caminho era esse que subia lá pra pra lá de de Simone. Aí eu peguei e dei uma carreira e peguei ele assim sair puxando nem tem por esse caminho é não não bendito o caminho é.
+
+Tá aqui, quando chegou lá em cima, eu disse nem tu tá ficando doido não que que tu tava vendo ali o caminho digo que caminho é nesse não aí ele ficou parado assim, deita assim tu viu que ele já subiu vim era Maria Florzinha que tava querendo confusão atrás dela, eu gostava de brincar com ela. Ela tava de mexer ela tava mexendo contigo agora a minha tia contava e minha mãe né? Contava que minha tia ela ia pegar a lenha já aí ela disse que foi a minha tia, minha mãe e a filha dela aí quando entraram para mata e começaram a tirar a lenha. Aí ela disse que de repente fez os fecho de lenha botou na cabeça aí mãe, foi a primeira que saiu aí tia ficou pela segunda e a filha.
+
+
+Já ficou Pela terceira quando elas saíram de dentro da Mata e chamaram Ilza e nada de Isa fazia Senhora. Mãe, Deus a Senhora. Mãe, vem te embora. Isa já vou mãe e nada de uso aparecer e ficou e os a frente embora e eu já vou mãe e usa Vem te embora e já vou mãe. Aí tia disse que já tava cansada do feixe de lenha na cabeça aí ou o tempo que usava tava tentando sair de dentro da Mata e não conseguia. Aí ela disse espera aí aí mãe baixou o o peixe de lenha dela, tia também baixou o dela e mãe ficou lá no lado de fora e tia entrou para saber o que que tá acontecendo com Ilza. Quando chegou lá e usava tava toda ninhada de Cipó, não conseguia sair dar um passo sequer e ela disse Maísa, o que foi que tu vinha se veio aqui, ele disse eu não sei não mãe.
+
+
+Então foi Maria Florzinha aqui miou ela todinha visse? Amarrou ela todinha de Cipó e ela não conseguia sair de jeito nenhum, então são história verídica que a minha mãe contava muita muita muita muita muita muita história, mas a mente a minha mente na época que ela contava muita história, eu era pequena, então não dava para guardar. Eh tanta coisa mas algumas coisas assim ainda escapa porque a mente já tá um pouco avançada aí vai embora. Oh, se tu tivesse que contar história, tu contava não contava quando eu conheci logo a família de João bolinho, ele ainda é vivo seu João Guilherme ele ele contou para mim que ele morava lá em Capinha Sul, não é Pituaçu Pituaçu é ali perto do Conde vem para cá, aí ele já acordou meio avexado. Eu acho que não tava errou o caminho, né? Aí ele veio.
+
+
+Dona dona Dana ele viu uma luz vinha uma luz apagava e ele andando vindo uma luz e apagando. Ele vindo contra ele quando chegou mais ou menos aqui perto do dessa entrada aqui da Mata da Espanha entrou para cá aí essa luz chegou me veio perto dele a custou bem perto dele, ele se arrepiou todinho aí bicho é valente baixinho Valente pegou a b pegou as peixeira e botou atrás da luz e a luz e indo para trás ele e levando no calor bem ligeiro, né? Aí quando eu chegar ali perto do gurugi essa luz entra e ele passa direto com o cabelo todo levantado bateu na na na na na quitanda lá de sem mar sem Marquinhos uma uma granvil lá dentro quando o rapaz de madrugada para tomar uma dose porque não se tava se sentindo aí quando foi no outro dia ele soube que o o compadre dele é essa mesma luz veio e veio dizer para ele, onde é que tem uma botija aí entregou A botija para esse amigo dele porque
+
+
+Perguntou o que queria que era para perguntar o que é que você quer, aí eu tinha dito, mas ele ficou ele ele ele ele ficou com medo porque botou a faca para tua faca na luz e saiu levando até chegar no canto da botija e no outro dia ele foi lá e tava escavado lá onde o canto da botija a história falada por João bolinho para mim para a mãe dele para todo mundo de Fulozinha ela também eu eu sou presenciei que não vai acontecer de animal. Ah concreto o cavalo que tem aquela esquina bem comida aqui, entendeu? Não tem homem que conseguiu desatar o nome dela no cabelo com cavalo. Acho que ele na cauda e assim no pescoço nós vimos lá na na outra Aldeia eu o o o seu Manoel, né? Ele trouxe o cavalo para a gente ver é desse jeito mesmo, tinha que cortar porque ele não tinha que avisar aí quando chega.
+
+
+Tão cego no muro e tá beleza liso, né? E é um nó aqui é um só que não tem como soltar nada. Eu vi nós vimos a gente pegou para ver se for ali na minha régua lá, ela tava com o cabelo dela de vez em quando ela tava trança desmancha. Ela Faz de novo mancha de novo lá no meio do campo, mas ela vai em qualquer lugar não tem medo Simone tava lá atrás de mim os cachorros.
+
+
+E aí final de semana aí outro dia ela chorando chorando chorando muito por aí, ela carregava a comida que a gente tinha botado para dentro da do do dela dormia e chorando como se ela tivesse sendo obrigada a carregar que ela não for no fora do local da vasilha outra vez já agora recente ela chorando de novo que é Mel, tu é que ela chora a gente já vai lá que a gente já sabe então tudo na corda dela que ela não conseguia nem sair do lugar tava desse jeito só chorando meu Deus isso aí não chegasse tão rápido foi mal por causa é incrível, então vocês estão vendo que a quem fala de antigamente de hoje recente antigamente e agora e bendito falando da da da da da da da cordinha. Aí eu lembrei que minha sobrinha viu, quando a Bica
+
+
+Tá sendo puxado puxado e ninguém ia tirar os meninos para dar água. Não era não tia que eu fui lá perto e olhei e não vi ninguém puxando ninguém é um bicho aqui que sai da Mata e vem perturbar aqui anda por aqui os cachorros latem muito falou ele não falou do botija essa Juventude não sabe o que é Botelho é ele mesmo muito dinheiro o que os senhores de Engenho os pessoal rico o dinheiro antigamente era ouro não existia dinheiro de papel, né? O dinheiro era moeda de ouro, então existia toda a vida não existia o pessoal que você andava tomando dinheiro na mão dela estão os fazendeiro com medo de tomar ovo dele chegava no campo de uma árvore dentro de casa. Faz uma coisa diferente cavalo um buraco pegava uma panela de barro que não existia.
+
+
+Alumínio, né? Panela de barro enchia de pé de prata de ouro fechava e botava lá segundo conta que se a pessoa morrer o ouro 10 um dinheiro enterrado em algum lugar vai ter que dar para alguém querendo ele ou não porque ele não pertence mais a ele, mas ele tá amarrado aquele negócio. Ah, pois então desse jeito então é verdade isso aí, pois na minha casa que eu moro hoje, não sei se Moisés lembra eu fui fazer uma reforma para botar uma calçada assim para ir para o muro, né? E teve que cavar bastante e quando o pessoal foi cavar os pedreiros que foi cavar tava lá uma botija cheia de prata, era Prata de todo tamanho. Aí eu guardei algumas. E o restante eu voltei para reciclagem porque não tinha mais valor nenhum.
+
+
+Banheiro era para ter modificado antigamente a moeda era ouro, depois passou para você depois de bronze fraca, né? Esse era de prata então Ali era uma botija também, né? Quis pus na minha casa, viu? Moisés na minha casa porque assim se ela lhe der para o pessoal que não e a entidade lhe dera e a senhora não tiver coragem de arrancar desculpa, porque quando tá começando a arrancar. Eu conheço um rapaz, eu conheci o rapaz já morreu há muito tempo comprou um caminhão com esse dinheiro. O nome dele é João Bernardo. Eu dei muito para Itabaiana em cima do caminhão dele. Consertei o caminho dele uma vez que eu era atrás já fui tratorista há muito tempo de mexer em motor aí ele ele ele ganhou uma botija arrancou com esse dinheiro que ele ele ele arrancou ele ele comprou uma.
+
+
+
+Todo mundo sabe da história tanto que ele mudou-se do lugar mais velhos, fala quando acontece isso a pessoa que arranca não mora mais não. Tem que sair do lugar da casa chamar não mas não foi uma entidade que veio de paciência por acaso, né? Eu sou uma casa para alguém. Alguém não teve coragem de arrancar nem lembrou de registrar meu pai, meu pai pescava aí ele ganha muito dinheiro de lagosta. Aí ele pegava o dinheiro cavava a vacina na na beirada da da Caiçara e ninguém sabia aí de noite, vinha um sonho na minha tia e diziam de dinheiro não aí ela ia lá pegar vai fazer mais bola o negócio quando para ia lá cavar. Oxi levava no dinheiro quando chegar em casa, ela contava.
+
+
+Revelado no sonho papai e pai disse assim tava passando necessidade baixando dinheiro e ter errado aí tinha cena. O nome dela é tia cena eh aqui a cena, ela disse que tava dormindo e apareceu ali ó o dia de Zé tá em tal canto tal canto de esconder viu? Ela e ela conta única filha, tu passar um tempo com ela lá ela ela contou aí teu pai agora dele no canto e no sonho vinha me diz onde tava ele vinha no sonho e ele viu aí ele vinha em sonho e dizia assim. Olha tá lá tá assim assim, porque todo mundo tem um espírito dela aqui bebendo, pode ser meu filho a sua a sua filha tinha o guardava muito dinheiro era muito dinheiro pai disse que quando eu pescava a pesa.
+
+
+É por isso que uma camisa era pouco para pegar o dinheiro da da do documento da Pescador e era muito dinheiro. Aí ele tentava esconder e era revelar revelada no sonho e ela ia e os negócio e os negócios merj na casa de de vó. Aí é por isso que que ele vinha em sonho ele vinha contra ela dizia assim. Ó, meu dinheiro tá em tocando ela ia lá e tava lá o dinheiro mesmo aí ele ia depois quando eu chegar aí chega. Ficava muito engraçado e aí gente somos artesanatos. Como é que é conta um pouco essa história. Cadê os jovens os artesanatos? Como é que tão aí os artesanatos assim a primeira artesiano tá Najara e o grafismo, né? O primeiro artesanato Tabajara começou a se construir por Maria Maria Maria Maria tapioca em 2008, entendeu? Ela aí a filha de João boinha, porque eu fui morar lá é a tia Maria, né? Porque são várias Maria.
+
+
+Né aí então, essa é a Maria de João boin a filha de João boinha. Então ela coma por ter me dado uma casa para mim morar com ela lá na casa dela. Aí a gente precisava. Como eu faço eu fazia fica um sonho rapaz precisa aparecer no meio da gente pessoas que constroe a o artesanato, né? No meio da gente precisa de pessoas que constrói o grafismo. Pense no meio da gente percebe pelo grupo que se constrói a cerâmica no meio da gente precisa do grupo que se costura a língua, né? Aí então a gente foi sempre a oca, né arquitetura. Então eu sempre no grupo da gente sempre a gente fala. Ah, você foi incentivador deles a a fazer depois que perderam Maria aí nós ficou um bom tempo sem sem ninguém fazer até chegar a Sonia, né? E ela e ela assumiu esse papel do de artesã e o que hoje já tá passando por para os filhos e neto agora né? É de argila, não é? Isso é pena.
+
+
+Agora que deu o filho dela, mas nosso filho né, mas eu fazia né, mas como ele começou a também mostrar o talento dele, né? Aí toda vez que a gente vai fazer um cocar é eu e ele junto. Porque ele vai ao vivo. Tem que fazer um cocar de que cor escolha a pena que eu faço aí eu vou escolho a pena e do passo a passo a ele, aí ele começa a montar o cocar aí ele montando e me mostrando, Mainha, tá bom assim mainha a senhora já se tá bom, aí eu dou a minha opinião e ele dá dele e a gente constrói. Esse contrato era mais eu que fazia né assim e a tia era sou eu, que faço eu comecei a minha primeira tiara que eu fiz, ela foi toda branca, então eu fiz ela sem ninguém me me me me me me me me ensinar nada. Então eu
+
+
+Tudo assim que eu inspiração na inspiração que eu gosto muito muito, eu sou uma apaixonada por artesanato. Pode ser de todo tipo de de quem for eu olhar se eu chegar num canto e tiver artesanato, eu vou em cima, olha olhar e vou apreciar né? A o trabalho, né daquela pessoa que fez aquela obra então eu eu sou uma das apaixonada de artesanato e eu começo a a olhar sem nenhuma inspiração assim de alguém me ensinar nada e eu começo a fazer então a primeira eu fazia no meu dedo, eu pegava o meu dedo colocava aqui a linha aí fazia a trança daqui eu começava a encaixar a pena e prender ela então eu comecei a fazer e o pessoal começou a gostar da mente, né? Assim tem ninguém te ensinar tem ninguém me ensinar e daí eu já fui só aperfeiçoando aí fiz muitas desse modelo. Aí depois eu disse não mas tem outros modelos.
+
+
+Aí eu comecei a criar outros modelos e hoje eh as tiaras que eu faço né? Essa que Natália tá com ela. Essa que tava comigo, né? Essa daqui acompanha as Iaras, né? Para onde elas forem é então todas as maioria, né? A maioria das da das tiaras daqui a maioria não todas as tiaras que as meninas usam aqui são todas feitas por mim e alguns Cocais também dos meninos são todos feitos por mim também e assim a maioria dos adereços assim de cordão pulseira eh o bracelete e o chocalho do pé também eu faço o que que eu faço é constrói arco e flecha é 6 também ele congela também cestaria.
+
+
+Ai ai ai sem estarias foi eu que fiz mas estava dentro de canela de boi natural, além de não ter animal mais não é mais necessário que nós temos já evitar cerâmica também. Vamos lá Sérgio, fala um pouco dessa tua experiência é só dizer o que você gosta de fazer com os sonhos. A Sônia Sônia abriu o coração e falou do que gosta de fazer.
+
+
+É eu vou ter mais um fora antes da bagunça ali embaixo, eu não estou praticando mais porque o paquera tá difícil, né? Tinha que arrumar um material, sempre eu vou fazer já pensou se chegasse um grupo de pessoas querendo aprender Tabajara. Eu tô falando de Tabajara querendo aprender com você a fazer colares, você ensinaria muito bom, você também ensinaria também e insônia estamos aqui para arrematar flores, né? Que muitas vezes agora agora recente mesmo, eu tava fazendo um bracelete para minha sobrinha e Larissa e eu comecei a analisar. Aí eu disse que eu tô ficando velha. Daqui a pouco eu não tô nem chegando.
+
+
+Supor o óculos eu não vejo aí fiquei com aquele intuito na minha mente quem é que vai ser o próximo artesão de tiara, né? Então isso é um conhecimento que é o que eu quero passar para as pessoas que elas queiram, né substituir porque assim não vai ficar só em mim. Eu não quero que fique só em mim. Eu quero que outras pessoas também façam que também né de andamento. Ah a cantora a cultura ela dá bem para cultura muito bem Natália, quando você usa essa tiara algum. O que representa isso para você, aí eu tava no fórum no dia que a gente foi fazer o a ratificação, né da etnia aí chegou uma 46 tem tiara dessa para vender eu disse não não tem então me entenda essa eu disse não porque eu disse porque ela não tem valor quer dela nem o dinheiro não paga ela ela tem valor, né? Ela não o dinheiro não.
+
+
+Tinha tem muito valor especificamente para mim. Mãe. Eu quero assim e assim assim assim assim assim do jeito que eu digo que eu quero ela faz aí depois ela ela faz reforma. Mas sempre é a mesma ela vai só reformando Né desde a minha primeira ela vai só reformando. E assim a minha Tiara é a minha identidade porque eu me identifico uma coisa muito linda, é sempre a mesma. Mas vai só reformando parece a luta de vocês, né? Pois não essas penas aqui de cima, ela é as penas a primeira que foi para minha cabeça principais aqui são depoimentos muito importantes que os meninos produz muito arco e flecha, só que eles são motivados a a a a praticar esse arco e flecha e tem uma coisa que motiva a eles que Marcelo vai.
+
+
+Falar o que é que motiva ele a frase a a fazer né? A Flecha e o ar. Para que que você tenha lá guardadinha lá chegue para cá para poder ser gravada aqui, cheguei. Fala aí Marcelo. Senta aqui ó. Ó nesse cantinho isso fica mais perto. Então fale alto, viu?
+
+
+É tipo assim, né? Eu já também já aprendi já com os meninos também, né de fazer esse arco e flecha eh. Por que eu me identifico? Eu ficava treinando aqui também com o menino eh com pé de de mamão marcava uns 10 metros e ficava atirando. Porque qualquer momento a gente precisasse a gente tava pronto para qualquer aí eu sou Faé junto com com o nosso povo para defender que nem a gente foi lá para para Graú, não foi ali aí teve um confronto com um policial que tava querendo não aparecer e ali eu não me importei de levar o primeiro de tudo não. Queria defender os meus parentes uma porta. Quem for a gente tem é confronto. Assim entre nós umas briguinhas tal, mas depois a gente volta tudo até a página novamente e tal junto com ele, mas eu tô pronto para o que der e vier para
+
+
+É o nosso território porque eh antigamente a gente já foi silenciado, né? Mas hoje em dia a gente tem que eh deixar eh eh para trás a nossas briga interna, né e vencer porque o ponto da gente é Vencer, não é para aqueles venha para dentro daqui Tomara, né? E eu tô pronto para para na tua fala se eu tô entendendo direito o arco e flecha não é meramente um artesanato é um instrumento de luta é uma arma uma armadilha a arma de defesa muito bem. Até parece que vai ter uma retomada ele corre para lá papai produzir muita flecha aí e sobre é o grafismo teria alguma coisa assim, por favor, meu bem, por favor.
+
+Que mais praticam ele não estão presentes assim que mas ele produz a tinta ele vai lá colher colheu tudo, né? Eles ele produz a tinta ele não faz o traço perfeito o a propriamente dito a a pintura, mas ele ele produz, né a tinta e como é que você produz essa tinta assim, a gente eh, vai atrás do do papo pega a fruta extrai o miolo dela às vezes a gente Halo a gente no liquidificador aí quem vai colocar o álcool o a cachaça que é para conservar ou passar mais tempo conservado a tinta e assim vai né?
+
+E usar o carvão que é para deixar mais escuro para não fazer errado, porque é arte não tem Clara quando a gente coloca ela no lugar aí no seu favor para marcar onde tá onde já arco-íris pintar já foi pintado para voltar a pintar, né? Isso é importante. Vocês sabem o período que é para tirar o jenipapo ou qualquer momento chega lá na árvore inteira, a gente tá vendo nesse momento que às vezes depende também da lua. A gente tá vendo isso também, se a lua tiver fraca o forte e a tinta sair sai boa ou ruim? Ah, tá observando isso agora né? Isso é importante, né? Eu sei que tá tudo toda a madeira todo tudo que se pega dentro dentro da Mata sempre muito escura, né certo? Tudo de Clara. Eh, oh se for um um um pau ela do lado da bicha, né da outra bicho, né? Então qualquer tipo qualquer tipo de rede de colete chamado na nossa língua. Fala é coletar, né? Então assim qualquer tipo de colheita é sempre na parte.
+
+
+E e Noite Escura as melhores colegas que vocês fazem ou bonita é na noites escuras interessantes para fazer oca para todos os o tudo tudo tudo inclusive até para se pintar a noite é melhor não é bom de pescar não pega peixe peixe grande, né? Não pega cavalo não pega esse peixe assim se obra agora noite de escuro. É que a noite vem pescar Resumindo. Tá tudo Tá tudo na Resumindo no universo, né no na lua lua lua sol já para plantar a lua cheia já só fazendo para na fala pegando a sua certo, porque assim que tá dizendo que tudo depende de de sol e de lua então vocês se baseiam. Como tá o sol? Como tá a lua?
+
+
+Na natureza, né? E é de libra natureza, ele tem filhos e lá do Isopor. Então já era aconteceu o equilíbrio é no universo é essa conexão que a lua tem que os dois astros tem né? A Lua. Tem tá tem condição quando tá escuro assim sem a lua, né para iluminar e quando tá
+
+
+claro ó, então tem uma é uma conexão com esses dois é astros a gente tem essa influência também a gente senta essa influência, né em todas as nossas práticas culturais e as plantas também não não não realmente isso é para dar um milho um feijão uma lua minguante, ele vai botar assim, mas ele não vai ficar a quantidade e você botar em uma e você plantar ele uma lua crescente ou seja, isso é a prática ancestral, tá vendo que vocês estão conservando, isso é a prática ancestral, fica muito feliz de ouvir isso caramba, que coisa boa ainda velho. Tá dentro do assunto. Tem uma uma palavra que diz que o sol não que molestada de noite e diz né a lua de noite, né? Porque na lua através da lua tem um Minato no mato que é aquela.
+
+
+É formado sobre sair né? Quer dizer a lua. Ela traz também o benefício e também traz esses males mais tudo, né? Parece que tudo o sol também, né? Que tem que cuidar, né? Tem os dois Natália é a visão do equilíbrio, né dos dois porque tem que ser né equilíbrio até água se beber você beber demais as pessoas que morre afogado É por isso né? Que ele tá ele fica um pouco Encantado porque eu ligo para ele, né, digo aqui hoje amanhã vai amanhecer chovendo e vai ser três dias de chuva, amanhã vai ter três dias de sol tá chovendo? Como é que eu falo acontece, né? Ele fica encantado por isso mas se a gente ver pelo pelo Zap, mas sabedoria pela sabedoria da terra. Olha aí.
+
+Eu tô aqui passou pra mim tá falando, entendeu? Esse grupo tá falando e isso é bom porque são as raízes de vocês querem tentar trazendo essa experiência incrível isso não isso é só você olhar para o tempo que o próprio fala com você e e e e e e e quando eu conheci tio João ele não tinha relógio hoje. Não ouviram a frase é só olhar o tempo que ele fala com você, ele não tinha eu só de dentro desse mesmo tema né? É Tio João é João Grilo, né? Meu tio João então quando ele chegava no roçar dele, ele já tinha vamos embora, aí eu levasse para o sol dizia tá cedo é 10 horas, vou pegar o celular 10 horas mesmo um pouquinho aqui. Vamos se embora, olha lá, o pessoal dizia é 11 horas e você olhava no relógio era 11 horas mesmo que a gente cuidou dos Últimos Dias dele, né?
+
+
+Foi aqui aí ele ele chamava aí ele dizia assim que é aí ele olha isso lá naquele quarto tinha ali ó, ele nem o sol ele via direito, ele dizia assim. Diga aí se não é o meu dia aí eu digo. Pera aí que eu vou olhar quando eu olhava era meio-dia e doido eu disse e não é mesmo é meio de dois isso qualquer dia comum só que não no verão, né? O dia parece ser mais uma e no inverno é o avesso, né? É o inverso porque com 5 anos já tá escuro, só que mesmo assim quando já tava escuro ele já aí é umas 5:30 da tarde, não é e se já sabe toda hora aí eu digo vou olhar tipo era 5:35 5:40, mas ele sempre acertava o horário assim às 6 horas da noite, ele sempre sabia era incrível Augusto que ele ia.
+
+
+Tomou dois irmãos dois é irmão de vó ele ia caçar a ele disse assim, olha, olha Edinho, se você for caçar tatu você depois que você encontra ele lá a terra, né? Aí você vai lá e bota o vidro no buraco para saber se ele tá subindo eu digo e Como assim tio não porque ele se enterrou ou você não tem material para ir buscar, né? Você é terra ele todinho aí você vai você vai lá volta volta aí para todas as ferramentas e vai olhar no botar o vidro no chão para saber se tem animal se ele tá subindo ou se ele tá lá. Isso tá no conhecimento sexual, viu? Aí ele disse ele outra coisa também que ele disse e falei assim, olha, se você tiver andando na mata antes de você entrar na mata ou você se ajoelha primeiro bota o vidro no chão vai escutar o que é que tá perto do que é que tá longe e isso é o conhecimento ancestral é é é é é é essa coisa bonita do respeito de da sabedoria também, né? Graças a Deus até se engana porque quando por exemplo parece que tava chovendo esses dias aí já fazia tempo.
+
+
+Porque tava tudo fazia tempo que tava misturando se eu vou já dormir que faz tempo que tá quando eu fui olhar era 7:40 dado pra mim já era 9 horas então assim Às vezes a gente não tentar não porque é inverno e pudesse mais cedo, mas ele trazia isso com ele assim a vida inteira é tão interessante assim quando a gente tem que gravar lá eu fazia Ô Sônia, digo senhor assim é uma chance, né?
+
+
+Vou fazer não sei como o senhor sabe que é 11 horas. Oi e aí minha filha se é 11 horas, quando eu olhar só Chiquinho, o que foi que disse a hora do Senhor, Ô minha filha. É porque eu sei que ele aluga aí agora, às vezes eu também me me me encaixei isso na mente aí quando eu olho para a lua que eu tô sem telefone. Eu digo Bianca já é 11 horas, vai-se embora cuidar vai para escola, mainha. Eu digo Bianca para ver se não é 11 horas quando ela vai olhar né, mãe? Aí ela disse oxe, mas a senhora Tá acertando a hora diga. Olha quando eu olho para o céu, eu já sei mais ou menos meio-dia e soltar lá em cima, me diga uma coisa aqui tem uma chamada medicina indígena, ele gosta de falar medicina indígena, por favor e se antigamente ou hoje mas se antigamente também tinha Rezadeira as benzedeiras carteiras pronto, então vamos começar pela medicina indígena.
+
+
+Logo que eu vou me embora que eu vou ajeitar meu almoço, ela é a Parteira de si próprio pronto, eu vou começar a cozinhar a bolsa e a saída da Maternidade e mesmo assim eu vi todas as minhas obrigação de treinar Natália para escola e fui comprar o que tava faltando para a menina nasceu e levava maternidade. Ai pronto fui-me embora quando foi na hora que eu eu tava pagando a roupa deu uma contração que eu me torci todinho aí a mulher disse que foi eu disse que eu tô sentindo ela disse que tipo de dor é dor de Pai, ela disse é sério você.
+
+
+Sentindo contrações e você tá aqui eu digo é aí ela disse menina vai-te embora, eu disse eu vou isso era 4:00 da tarde, eu já tinha passado a noite inteira sentindo contrações e perdendo o líquido. Aí eu fui era umas 5 horas fui embora para cá aí quando eu cheguei em casa, tomei banho, ajeitei a janta e sentindo contração me sentindo sozinha e já tava aperriada e mais calada e a minha mãe me ensinou que disse que a dor a gente tem que segurar ela no nos lábios pode fazer espetáculo e quanto mais faz espetáculo mais pior, é aí eu guardei isso comigo, né? Aí quando menos espera era umas 7 horas da noite aí minha mãe foi e mandou aquele meu irmão que tava aqui procurar um carro que eu tava sentindo dor que tinha que levar para maternidade. Aí eu disse olhei assim, foi ela do lado de fora. Olhei eu digo meu Deus vontade de fazer um fora dessa menina.
+
+
+Não acredito não que eu não vou esperar não. Tem ninguém tem na cama, quando eu me sentei só fiz só me sentar na cama, fiz desse jeito quando eu me senti aí veio a dor digo vem e a dor, pera aí, eu segurei aqui um negócio da cama e bateu na dezena nasceu e quem cuidou do neném quando nasceu aí ficou todo mundo correndo quando a minha mãe olhou assim feio meu Deus, eu não acredito aí chamou a minha cunhada. Aí mandou chamar uma Parteira. Aí ela veio aí cortou no umbigo, aí ela foi olhou assim para mim e disse assim, olha se a placenta tá dentro de você ou se ela já saiu, aí eu disse como é que olha. Aí, ela disse você coloca a mão desse lado se ela correr para cá e você coloca aqui se juntar os dois. Ela ainda tá dentro de você, aí eu fui coloquei correio. Coloquei para cá correu eu disse tá aqui aí ela disse então aperte sua barriga e tente colocar para fora, aí eu disse comigo mesmo.
+
+
+Eu coloquei a mão aqui e coloquei a outra aqui aí segurei aqui e saiu atrasada e tudo certo e a partir daí o ensinamento ficou pronto ficou ensinamento e que eu não em casa mas não deixava de Bruna. Eu queria ter em casa. Se ela tivesse grávida eu fosse ganhar neném tudo dava contava lá o meu vamos embora agora a coisa que eu mais gostei na minha vida. Se for pegar Deus me perdoe, mas foi a dor de Paripe para mim. Foi muito boa colocar meus filhos no mundo foi uma coisa mais linda do mundo, porque assim é uma coisa assim, que que tinha dentro que Deus gerou dentro da gente e que ia ser uma coisa muito preciosa quando vem ao mundo você olhar para aquele rostinho, né? Que Deus fez com tanto carinho com tanta dedicação e aquela dor que a gente sente naquela hora.
+
+
+Funda é compensada e é confessar ou Sônia, eu não tenho essa mesma opinião sua eu parei 7 que eu não quis fazer minha ligação entre vários certo também sim, eu não quis fazer minha ligação não fiz não fiz nada disso aqui é a mãe dela. Vamos para o a história do passado ajuda o passado que a mãe do João bolinho ela era Parteira. O cheiro dos cabô porque assim por que eu falo Vivi almoçava junto é tomar café junto jantava junto, andava junto aí Eu Aprendi muita coisa com ele. E também ela além de ser de ser também é paquera também era benzedeira, né?
+
+
+Normal quando ele sonha bicho tá louco, é aí isto tudo é distante de fé e quando de mãe tava naquele período de descansar aí de madrugada a hora pior que tinha filhote que tem que dormir meu pai chamando ela aí chamava Curral em frente aí bora mais um carro fosse nas costas aqui é na frente eu saio daqui um cachorrinho atrás dele porque morava ali em gramame aí foi aqui para parar time grandona para Parati de pé de madrugada tirada medonha ele da frente que eu queria acompanhar ele com aquela preguiça que ele aí quando chegou lá a parte dele aqui em outro lugar. Aí ele voltou no mesmo prédio para encher velho de pé e aí o rabo aí tá cansado. Aí ele desceu na casa que tinha uma carteira e eu fiquei escondido dele atrás de umas bananeira isso já estava amanhecer no dia aí tinha uma peça de papeira aí viu? Aquela batendo ali, ele disse fica aí eu ficava lá vai bala porque a luz Opa sou eu, aí eu apresentei sou eu que a mulher uma história aí quando eu cheguei em casa, mas eu tinha que descansar nesse nesse.
+
+
+Meus irmãos ou seja faria a maioria das mulheres faziam sozinhas em casa, tinha o senhor tinha mais conta.
+
+
+Mesmo 12 12 e 10 esse negócio de penteadeira era muito comum, né assim. Aí ninguém a pessoa tava assim com diarreia com vômito leva para rezar né aqui o que ligar ele que o povo rezar vai se tivesse com o olhar do Galho ficava murchou muito jovem, mas eu escutei essas histórias que eu sou muito jovem uma jovem senhora já né? Já tem uns 30, né? Aí ele murcha é mas eu escutei a vizinha lá em cima da casa do vizinho que eles ia passaria presente também sim presente, né? Porque eu sou jovem, sei lá pessoal, mas quando eu digo presentes gente que se utiliza das plantas para vender e a pessoa chegar doente mesmo diante dela assim que eu eu já vi assim já pensou chegar de noite mesmo chegava lá parecia que ia morrer.
+
+
+Ela começava a fazer a reza dela lá, daqui a pouco saia é boa, sai quase pulando o menino chama, não sei se é dos saberes mesmo. Por exemplo. Isso eu já fiz por cura e influência assim, né? Quando a criança às vezes tá com com diarreia essa questão o recém-nascido aí tem aquele cestinho que tem que esquentar no fogo para dar o susto na água para o menino tomar banho com o menino que tá bom aí não sabe como esse menino fica bom, mas ele fica a questão também. Às vezes a criança tá um pouquinho derruba, o pai chega tira a camisa do suor e bota o bebê em cima e faz aquele né aquele negócio para falar e para cá que o menino fica bom. Eu não sei como é que fica bom, mas fica porque o Cauê a gente já fez isso a gente ensina né? Aí a gente do fumo também no umbigo de Cauê a gente colocou com mastigado que cicatrizou o umbigo dele e assim tudo que a gente já
+
+
+Presente também graças a Deus, tem que esperar o menino para editar 7 anos quando ele não viu e trabalhava em casa família. É vamos Sônia tá falando aqui terminou a parte do início, eu tava doente, mas eu não sabia do que era aí a minha irmã aqui que mora aqui me levou para o São Vicente de Paula na época aí quando chegou lá perguntou o que que eu tava sentindo, eu tava sentindo uma boa aqui respondendo para as costas e dessa dor ela deu febre ela dava frio e meus lábios, eles ele rachou todo eu passei três dias internada tomando soro remédio, não passava a dor e a dor quanto mais passava tempo mais de mim aí.
+
+
+E para a casa dela para ser mais uma semana e eu não ficava boa volta, eu disse não tenho que ir para casa. Aí ela foi e disse é melhor tu ir para casa, vai que mãe sai para fazer mais alguma coisa, porque eu não sei mas fazer nada. Já levei tu para dois hospital e tu continua doente e não comia eu não comia nada de jeito nenhum aí quando eu cheguei em casa aí a minha cunhada aqui that disse assim sono eu disse oi. Será que tu não tá conseguindo ela caída, aí eu conheci não sei ela disse dói a onda disse dói aqui e responde nas costas. Eu tenho muita dor nas costas, ela disse eu sei uma menina porque tu não vai dar aí eu disse eu vou ter que hora ela disse mas agora não tá sentindo muita dor desse troço dói muito aí quando eu cheguei lá, aí eu falei com a menina. Aí ele fez assim ela caída ela disse rezo tu tá doente, eu disse é
+
+
+Aí entrei ela mandou me sentar e a gente aprendeu a reza. Eita aí ela pegou um pedaço de de cordão e mediu daqui para cá e mediu daqui para cá e mediu daqui para cá quando ela olhou tava quatro dedos espinha ela caiu aí. Eu rezei na tarde, né? E era para eu voltar de manhã, aí eu disse aí eu disse Tete eu já tô com assim esse sério meu Deus do céu, tu tá sentindo dor na ponta do pé com uma fome tão grande que eu não tava comendo nada. Eu tô é com fome aí come quando foi de manhã, ela disse vai de novo que é três vezes, eu disse aí eu vou essa vez, mas mas se eu melhorar não vou mais não, aí ela disse não, mas tu tem que ir as três vezes, aí eu fui e eu fiquei boa e a gente aprendeu ainda aprender a minha a minha cunhada. Deve ter testemunha que o meu o meu irmão passou um ano com ela doente com essa dor.
+
+
+Ele gastou tanto do dinheiro, não são aquele hospital que fechou Samaritano de de médico particular de tudo, ela gastou ela parecia uma louca dentro de casa, ela não comia ela só fazia chorar com a dor aí quando foi um certo dia disse mocinha, eu acho que tu tá é com espinha ela caída, ela disse será Beto disse se pendura ali naquele pau, aí a gente mediu ela eu entendo mediu ela todinha. Aí ela disse tu tá com espinha e ela caída e o teu remédio vai ser se pendurar naquele pau ela se pendurou no pau três vezes e até hoje ela ficou boa. Isso são formas de medicina eu pergunto a vocês sobre tudo certo, quando eu sou do peão, né? Quando ia rezar. Ela olhava pra pessoa A Rezadeira olhava para pessoa dizia, o que é que a pessoa ela dizia meio assim, ó, aí Botaram uma olhado bravo para você mesmo assim como você chegava lá dizia e ela e ela.
+
+
+Rezava daqui a pouco vocês saia bonzinho, eu levei minha filha. E agora vem dar lembrança que eu levei minha filha a minha filha mais velha. Tava em casa toda mole Clara é mais ele é meu irmão conhece a mãe de Fabinho, ela rezava e agora o que a gente faz a gente aperriada aperriada rapaz, bora leva para uma Rezadeira. Bora lá levando chego lá, né? Foi mole quase no meu braço chegou lá a menina saiu boazinha tem uma para contar pode pode pode agora essa é a parte de Deus eu não convertido Salvador há tempo aí copia eu tava na casa do meu tio. Teve um novo testamento quando ele me deu uma palavra aí falou sobre preso e sobre as pessoas entre no hospital eu visitar né?
+
+
+Preparei né? Falei com a irmã dela também visitava sabia? Não tinha sabedoria de nada ainda a gente vai aí me ensinou o processo. Como é que como é que dia tudo bem aí no quarto cinco pessoas deve ter chegado desde só ele nós dois vai ter dia de vocês. Só vai entender só agora chegou um tempo aí só ficou eu e ela aí pronto socorro municipal.
+
+
+Nem com a cabeça nem comprar nem com perna nem com nada aí caçar enfermeira ia sair você vai ser transferida para o hu que aqui não tem jeito para resolver essa não um pouquinho me esqueço, eu tô paralisado, mas não fica bom, né? Quem me limpa não faço nada foi você quer aceitar Jesus como seu Salvador, parceiro. Acabou agora a responsabilidade, nós vamos morar pela senhora, ela colocava a mão sobre ela e começa a morar repreendendo todo espírito mal.
+
+
+Já disse assim, que bruxaria que botasse gasolina. Aí começou orando aí começou a dar cabeça até a ponta dos pés repreendendo todos os pintos malignos, quando terminou se broca para cima aí ó, deu tá em orar a perna tá boa a outra tá bom pescoço, tá bom Levanta. A mulher levantou do Senhor e outra a gente vinha aí tinha uma sala que tinha só uma pessoa com a tia assim essa cama e a menina que você tá com a cadeira aqui Papai do Céu. Ela disse ela não fala não, ela é muda muda e solta, mas Jesus está aqui Jesus pode fazer ela ouvir falar diga. Amém diga Amém diga Amém diga Amém, daqui a pouco diga mesmo.
+
+
+Ai irmãozinho antigamente. Amém falou ouviu que ela tá ouvindo, né? Ela ouviu e falou foi na hora que a pessoa orar por ela aí quando o vídeo Guarda lá ele era muito chato, mas até não terminar visitando aborrecimento, né? Sai rápido. Aí nós fomos lá chego lá ela não tá e a outra mulher ela tava mas ela disse que tava com uns espinho debaixo do pé que não aguentava andar aí chorou por ela de novo cantando Socorro a oração Poder da Fé a reza O Poder da Fé tudo com o poder da fé. Toda vez eu fiquei eu fui para o seu batom, mas esse tempo eu já tava só trabalhando só um emprego no supermercado, né? E ela foi trabalhar na minha casa. Eu fiquei só.
+
+
+Eu vou lá no Samaritano, eu cheguei lá tinha uma situação que tinha três mulheres. Falei até a paz do Senhor e tal foi sem palavras e uma mulher que tá assim lá no Recanto tinha cheia de remédio ficar inchado tá toda essa garrafa inchado. Aí começou com ela, ela disse faz 7 meses que ela tá internada daquele jeito não tem cura de nada e comendo pode cuidar do marido dela, né por aí eu vou orar pela senhora hoje domingo terça-feira terça-feira, eu vou vir aqui, não quero encontrar Nenhuma das três é crente crente dela fez.
+
+
+E quando foi na terça-feira as tuas tem que se embora, ela tá sentado em cima da cama chegando tá assim sentado ainda tá aqui de manhã que eu estou de alta agora, só que eu não posso ir porque eu moro longe e só fui ver pode me pegar é meu primeiro marido, quando ele largar do serviço, é por isso eu tô esperando por ele, mas eu tô boa, graças a Deus, graças a Deus então, acho que a gente tá conversando aqui sobre a espiritualidade já até agora pouco essa semana atrasada, só que eu tava com uma cachorra ali a cachorra tava balançando na boca assim e cai no sangue pelo nariz e ele vem cá me ligou minha cabeça todinha de sangue melou tava debaixo do chuveiro e o sangue caindo e agora fazer o quê? Eu não sei não tem dinheiro não eu fazer o que eu vou orar por
+
+
+Tem a mão na cabeça dela, fiz uma oração por ela, quanto foi quanto tempo Voltei de sair, eu não faço não poder de Deus que faz isso, né? Me parece que em todas as salas afeta presente, né? O meu irmão entrou o meu irmão entrou em depressão profunda para se internar mesmo com doido mesmo lá pronto só para sentir já já tu conta a história. Eu quero só saber de vocês, nós falamos sobre medicina, né as rezadeiras carteiras símbolos de proteção, falamos não diretamente, mas o Cocal né os valores do conhecimento antigo, tá vendo vocês estão trazendo aqui conhecimento antigo os sinais da natureza.
+
+
+A gente teve fala os aqui mostrando os sinais. Se alguém quiser falar mais e só para ele começar eu queria que vocês fizesse uma prática a parte da da da das Ervas, né, entendeu? Não na teoria mas ele na teoria prática outro.
+
+
+Para poder explorar mais coisa, né? Porque as coisas da gente vira Hermes comprar explorar melhor outro dia você pode tirar umas fotos e vir outro dia para escolher, né? Trazer o bolsinho. Até esqueci de tirar não praticamente não falou né? É porque a medicina tradicional e as pessoas também e sobrar espiritualidade falou tudo do do do do do do c do espírito, né? Agora que da fé que ele tinha praticar hoje, né? Ele vai entrar nessa parte, né? Pronto. Essa foi o que eu falei agora sim, mas todos estão de acordo, que é que fala diversidade de rituais. O Toré é uma diversidade. O Toré é espiritualidade também não deu Vitória. A gente não trata ele como se fosse uma fé uma fé uma exemplo de ritualística, entendeu? É mais cultural, mas quando canta
+
+
+Que que pedem a a a a a a a a a proteção de Nosso Senhor Jesus não tem uns cantos assim, mas é o o proteção é uma coisa oferenda é outra, entendeu? Então assim o que é que o Toré indígena cantora indígena a Pajero lance indígena, não é essa pajelança que tá vindo hoje em dia a Pajeú é vinculado a a botar para o segundo. Pajero para de Santo e Edinaldo crente da igreja da igreja a obc, entendeu? Não tá falando disso eh um espírito lá indígena é totalmente diferente da cosmologia do da da parte africana da parte de da parte negra da parte que de outras religiões eh, oh eu entendo que esse respeito é os seres os elementos existe? Mas a oferenda ele né? Ou a ela as a aldeia a Vitória não pratica quando as outras aldeias estão juntas a gente canta é motivo de se manifestar em termos tomamos.
+
+
+Né dançando eh em termos de de você, tá vivo? Tá resgatando tá tá Resistindo né dentro de um processo que foi apagado agora aqui na parte de da da espiritualidade profunda da parte da O Ritual ritual a gente fala ritual. Mas é uma dança, mas a parte mesmo que é que era para ser aí não pratica não, entendeu? Mas as danças né? Eu tô falando para você e para você dizer assim, como se pode levar isso para o povo que não é somente Aldeia Vitória é um povo que Tabajara né? Não não tem nenhum problema agora que para você que eu sou pesquisador e aqui né e nas outras aldeias é que nós não pratica rituais rituais não conceito de ritual, por exemplo que eu que eu coloco aqui é por exemplo nós vamos é pra pescaria e antes a gente tem a gente tem um ritual que é a oração.
+
+
+Pedido de proteção a gente também olha o mar para ver como é que tá ver o tempo à Lua isso são rituais que você pratica sempre para que a cor aquela coisa aconteça fazemos até hoje então vocês têm esses rituais e de e as manifestações espirituais. Mais especificamente é a fé através da natureza, né dos elementos de Nosso Senhor Jesus como pai celestial, que que é quem dá a vida e dá a morte vai dizer que o homem Ele é.
+
+
+Nós não só somos o corpo físico, né? Mas a alma espírito e corpo físico muito bom, eu acho que e valorização do sinal a medicina a medicina indígena os chás sobretudo Cauã Cauã Cauã quando meu menino tem 5 anos se ele tá com qualquer dorzinha, não tem como para mamãe quando tu tá com uma dorzinha na barriga. Tudo de bom. Como tu tá com dor de barriga tudo o que mamãe eu quero hein? Não vai falar agora com dor de barriga, tá? Mamãe faz um chá para mim. Manda papai fazer um chá para mim, não é o chá está presente na casa de todos vocês. Aí ele produz no quintal na frente de casa todo mundo aqui produz quando a gente tem uma espécie que o outro vizinho não tem a gente vai lá pegar o dele poderia dizer, quais são as plantas é?
+
+
+Eu prefiro tomar chá do que remédio chegou agora pouco não tomava chá não eu cheguei agora há pouco, nunca tinha como baixar na minha vida, nunca tomei tanto do chá da folha os dois meses que eu tô por aqui, já tomei mais chá que a minha vida todinha chegou na farmácia olhou pra prateleira chegou na farmácia. Você está aqui dentro de uma farmácia aqui, fala bonita, estamos dentro de uma farmácia em volta de você, tá cheio de remédio, esse pé de árvore ali, o Cajueiro é um antibiótico. Eu eu analisei uma coisa é que ela tem dois cachorros e dois gatos, a gente já observação animal comendo capim assim Matosinho assim para dor de barriga que ele tá com dor de barriga. Ele não fala não não sabe qual é que é bom, mas como aquele.
+
+
+Vizinho por ali para aí, você tem que analisar que ele tá com dor de barriga, né? Aí ele come as vezes não dá bem e eu já vi um bicho ali do lado tá com dor de barriga que a gente tem que descobrir que no no bicho bruto ele faz essa essa essa essa essa essa ação para ele ficar bom, né? E a gente que somos, né? Queimou a mente aberta aí é mais fácil, né? Se você pegar um chá serve para subir na Bahia também, aí eu pego a folha daquele daquele daquele hortelã da da da civilização do Nordeste comendo capim eu vou lá pego um pedacinho de folha aí na boca dele dentro da água. Aí tem aquela água dele ele bebe por perto aqui não tem nada nessa farmácia aqui antibiótico nervo neurotransmissor que você tá nervoso a nossa nós não temos aqui. Infelizmente eu tenho.
+
+
+Tem ainda não tomou dele ainda não aí vai ser grande até a flor branca e o nosso tem a flor azul é Melissa. Se ele for pro professor porque Ah é brasileiro também é Melissa é uma cidreira e é Melissa Melissa. Pera aí tem alguém gritando não escreve essa planta dentro desses dois árvores grandes ali essas folhinhas fininhas para dor de barriga. Como é o nome da Pitanga a pitanga pitanga também? Tem ali o pé de goiaba, né que também serve para antibiótico lavar ferimento do Chile Capinzal pensando que mais hortelã para quem tem diabetes citronela, né? Esse moço bonito aqui ele vai pegar todas.
+
+
+Você é nada, se não deu é é fome que tá mas não então você comeu. Me diga uma coisa eu tenho uma medicina para quem tá com fome e ele fica pronto ali tá? Pronta ali, muito obrigada pela participação foi uma rodada bacana agradecida, a gente volta depois para dizer se bate o resultado dos gráficos com vocês para confirmar tá? E vamos comer agora, né? Tchau obrigado. Tchau, obrigado agradecido. "
+
+
+# Definir uma lista de artigos definidos e indefinidos
+artigos <- c("o", "a", "os", "as", "um", "uma", "uns", "umas")
+
+# Limpar o texto
+texto <- tolower(texto) # converter para minúsculas
+texto <- removePunctuation(texto) # remover pontuações
+palavras <- unlist(str_split(texto, "\\s+")) # dividir o texto em palavras
+
+# Contar os artigos
+contagem_artigos <- table(palavras[palavras %in% artigos])
+
+# Exibir o resultado
+print(contagem_artigos)
+
+
+write.table(x = contagem_artigos,
+            file = "ArtigoAldeiaVitoria.txt",  # Save the file as pirates.txt to my desktop
+            sep = "\t")  

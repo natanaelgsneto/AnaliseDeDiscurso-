@@ -1,0 +1,13 @@
+preposicoes    Freq
+	a	331
+	até	12
+	com	88
+	contra   2
+	de	224
+	em	33
+	entre	1
+	para	172
+	por	23
+	sem	10
+	sobre	28
+	trás	2

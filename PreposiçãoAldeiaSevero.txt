@@ -1,0 +1,14 @@
+"preposicoes_encontradas"	"Freq"
+"1"	"a"	396
+"2"	"até"	16
+"3"	"com"	80
+"4"	"contra"	3
+"5"	"de"	278
+"6"	"desde"	4
+"7"	"em"	54
+"8"	"entre"	3
+"9"	"para"	189
+"10"	"por"	47
+"11"	"sem"	11
+"12"	"sobre"	11
+"13"	"trás"	3

@@ -1,0 +1,9 @@
+     palavras  	Freq
+	a	331
+	as	41
+	o	212
+	os	54
+	um	117
+	uma	119
+	umas	8
+	uns	6

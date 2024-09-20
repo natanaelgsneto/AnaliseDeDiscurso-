@@ -1,0 +1,14 @@
+  preposições  	Freq
+	a	576
+	até	24
+	com	117
+	contra  2
+	de	314
+	desde	6
+	em	43
+	entre	1
+	para	224
+	por	44
+	sem	8
+	sobre	14
+	trás	1
