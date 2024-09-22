@@ -5,7 +5,8 @@ from math import pi
 df = pd.DataFrame({
 'name': ['John'],
 'Diversidade de rituais (9O%)': [54],
-'Formas de manifestacões espirituais(10%)':  [6]
+'                                                                                 Formas de manifestacões espirituais(10%)                     ':  [6],
+'                         Fé(8,33%)                                  ':[5]
 })
 
 categories=list(df)[1:]

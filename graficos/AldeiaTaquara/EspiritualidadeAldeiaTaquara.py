@@ -4,9 +4,9 @@ from math import pi
 # Set data
 df = pd.DataFrame({
 'name': ['John'],
-'       Formas de manifestacões espirituais (40%)       ':  [2],
-'                                    Diversidade de rituais (60%)': [3],
-'        Fé (38,9%)               ': [7]})
+'       Formas de manifestacões espirituais (16,7%)': [2],
+'                                    Diversidade de rituais (25%)': [3],
+'        Fé (22,6%)                ': [7]})
 
 categories=list(df)[1:]
 N = len(categories)
@@ -22,8 +22,8 @@ ax.set_theta_direction(-1)
 plt.xticks(angles[:-1], categories)
 # Draw ylabels
 ax.set_rlabel_position(0)
-plt.yticks([1,2,3,4,5,6,7,8], ["1","2","3","4","5","6","7","8"], color="grey", size=7)
-plt.ylim(0,9)
+plt.yticks([2,4,6,8,10], ["2","4","6","8","10"], color="grey", size=7)
+plt.ylim(0,8)
 # ------- PART 2: Add plots
 # Name1
 values=df.loc[0].drop('name').values.flatten().tolist()

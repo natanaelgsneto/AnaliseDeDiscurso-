@@ -13,7 +13,7 @@ df = pd.DataFrame({
 
 })
 
-# ------- PART 1: Create background
+# ------- PART 1: Create
 
 # number of variable
 categories = list(df)[1:]

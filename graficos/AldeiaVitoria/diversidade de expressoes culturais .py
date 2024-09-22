@@ -33,7 +33,7 @@ plt.xticks(angles[:-1], categories)
 
 # Draw ylabels
 ax.set_rlabel_position(0)
-plt.yticks([5, 10,15,20,22], ["5", "10", "15","20","22"], color="grey", size=7)
+plt.yticks([5, 10,15,20], ["5", "10", "15","20"], color="grey", size=7)
 plt.ylim(0, 22)
 
 # ------- PART 2: Add plots
