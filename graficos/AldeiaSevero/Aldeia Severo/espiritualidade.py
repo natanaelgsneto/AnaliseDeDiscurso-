@@ -5,8 +5,9 @@ from math import pi
 # Set data
 df = pd.DataFrame({
     'group': ['A', 'B', 'C', 'D'],
-    'Formas de manifestações espirituais (77,8%)': [7,0,0,0],
-    'Diversidade de rituais (22,2%)': [2, 0, 0, 0]
+    'Formas de manifestações espirituais (53,8%)': [7,0,0,0],
+    '                                                                                                         Diversidade de rituais (15,4%)                                                                 ': [2, 0, 0, 0],
+    'Fé(30,8%)       ':[4,0,0,0]
 })
 
 # ------- PART 1: Create background

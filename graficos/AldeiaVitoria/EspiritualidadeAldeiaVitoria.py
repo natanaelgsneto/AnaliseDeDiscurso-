@@ -7,7 +7,7 @@ df = pd.DataFrame({
 'Formas de manifestacões espirituais(75,5%)':  [40],
 '                                                             Diversidade de rituais(3,8%)                    ': [2],
 'Fé(20,8%)          ':[11]})
-
+#testes
 categories=list(df)[1:]
 N = len(categories)
 # What will be the anglof each axis in the plot? (we divide the plot / number of variable)

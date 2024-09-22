@@ -5,14 +5,16 @@ from math import pi
 # Set data
 df = pd.DataFrame({
     'group': ['A', 'B', 'C', 'D'],
-    'Cantos e danças (44,68%)': [21,0,0,0],
-    '                                    Artesanatos(48,94%)           ': [23, 0, 0, 0],
-    '        Grafismo Indígena(6,38%)                                          ': [3,0,0,0]
+    '                                        Medicina indigena (32,9%)                                ': [23,0,0,0],
+    '                                                                                                                                                     Valorização dos sinais da natureza (42,9%)                                                                                    ': [30, 0, 0, 0],
+    '                                                                                           Rezadeiras/ benzedeiras (8,6%)                                            ': [6, 0, 0, 0],
+    '              Parteiras (1,4%)                                 ': [1,0,0,0],
+    '                              Valorização da oralidade e saberes ancestrais (14,3%)                                                                                                              ': [ 10, 0, 0, 0],
 
 })
 
-# ------- PART 1: Create background
-#primeiro
+# ------- PART 1: Create
+
 # number of variable
 categories = list(df)[1:]
 N = len(categories)
@@ -33,8 +35,8 @@ plt.xticks(angles[:-1], categories)
 
 # Draw ylabels
 ax.set_rlabel_position(0)
-plt.yticks([10, 20, 30], ["10", "20", "30"], color="grey", size=7)
-plt.ylim(0, 30)
+plt.yticks([10, 20,30,40], ["10", "20","30","40"], color="grey", size=7)
+plt.ylim(0, 40)
 
 # ------- PART 2: Add plots
 
@@ -44,7 +46,7 @@ plt.ylim(0, 30)
 # Ind1
 values = df.loc[0].drop('group').values.flatten().tolist()
 values += values[:1]
-ax.plot(angles, values, linewidth=1, linestyle='solid', label="Diversidade de expressões culturais  ")
+ax.plot(angles, values, linewidth=1, linestyle='solid', label="Saberes locais")
 ax.fill(angles, values, 'b', alpha=0.1)
 #
 # # Ind2
@@ -133,7 +135,6 @@ ax.fill(angles, values, 'b', alpha=0.1)
 
 # Add legend
 plt.legend(loc='right', bbox_to_anchor=(-0.10, 0.1))
-plt.title("Aldeia Barra de Gramame\n")
+plt.title("Aldeia Vitória\n")
 # Show the graph
-
 plt.show()
