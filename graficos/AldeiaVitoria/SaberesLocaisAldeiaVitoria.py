@@ -5,11 +5,12 @@ from math import pi
 # Set data
 df = pd.DataFrame({
     'group': ['A', 'B', 'C', 'D'],
-    '                                        Medicina indigena (32,9%)                                ': [23,0,0,0],
-    '                                                                                                                                                     Valorização dos sinais da natureza (42,9%)                                                                                    ': [30, 0, 0, 0],
-    '                                                                                           Rezadeiras/ benzedeiras (8,6%)                                            ': [6, 0, 0, 0],
-    '              Parteiras (1,4%)                                 ': [1,0,0,0],
-    '                              Valorização da oralidade e saberes ancestrais (14,3%)                                                                                                              ': [ 10, 0, 0, 0],
+    '                                        Medicina indigena (32,9%)                                ': [89,0,0,0],
+    '                                                                                                                                                     Valorização dos sinais da natureza (42,9%)                                                                                    ': [79, 0, 0, 0],
+    '                                                                                           Rezadeiras/ benzedeiras (8,6%)                                            ': [19, 0, 0, 0],
+    'Simbolo de proteção': [33,0,0,0],
+    '              Parteiras (1,4%)                                 ': [9,0,0,0],
+    '                              Valorização da oralidade e saberes ancestrais (14,3%)                                                                                                              ': [ 63, 0, 0, 0],
 
 })
 
@@ -35,8 +36,8 @@ plt.xticks(angles[:-1], categories)
 
 # Draw ylabels
 ax.set_rlabel_position(0)
-plt.yticks([10, 20,30,40], ["10", "20","30","40"], color="grey", size=7)
-plt.ylim(0, 40)
+plt.yticks([10, 20,30,40,50,60,70,80,90,100], ["10", "20","30","40","50","60","70","80","90","100"], color="grey", size=7)
+plt.ylim(0, 100)
 
 # ------- PART 2: Add plots
 

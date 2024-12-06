@@ -25,8 +25,8 @@ ax.set_theta_direction(-1)
 plt.xticks(angles[:-1], categories)
 # Draw ylabels
 ax.set_rlabel_position(0)
-plt.yticks([1,2,3,4], ["1","2","3","4"], color="grey", size=7)
-plt.ylim(0,5)
+plt.yticks([10,20,30,40,50,60,70], ["10","20","30","40","50","60","70"], color="grey", size=7)
+plt.ylim(80)
 # ------- PART 2: Add plots
 # Name1
 values=df.loc[0].drop('name').values.flatten().tolist()

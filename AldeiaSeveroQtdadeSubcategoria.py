@@ -4,10 +4,10 @@ from math import pi
 # Set data
 df = pd.DataFrame({
 'name': ['Diversidade de expressoes culturais artisticas','Espiritualidade'],
-'Danças':  [7, 5],
-'Artesanatos': [5, 2],
-'Grafismo indigena':  [1, 1],
-'Cantos':  [2, 1]})
+'Danças e Cantos':  [7, 5],
+'            Artesanatos' : [5, 2],
+'  Grafismo indigena       ':  [1, 1],
+'    Cantos          ':  [2, 1]})
 
 
 categories=list(df)[1:]
@@ -24,8 +24,8 @@ ax.set_theta_direction(-1)
 plt.xticks(angles[:-1], categories)
 # Draw ylabels
 ax.set_rlabel_position(0)
-plt.yticks([1,2,3,4,5,6,7], ["1","2","3","4","5","6","7"], color="grey", size=7)
-plt.ylim(0,8)
+plt.yticks([10,20,30,40,50,55], ["10","20","30","40","50","55"], color="grey", size=7)
+plt.ylim(0,56)
 # ------- PART 2: Add plots
 # Name1
 values=df.loc[0].drop('name').values.flatten().tolist()
