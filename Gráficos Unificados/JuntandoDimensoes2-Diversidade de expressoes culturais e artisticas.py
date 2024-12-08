@@ -92,7 +92,7 @@ fig.update_layout(
             range=[0, 52]
         )),
     showlegend=True,
-    title="                          Categoria: Diversidade de expressões culturais e artísticas                                                           "
+    title="                          Categoria de análise: Diversidade de expressões culturais e artísticas                                                           "
 )
 
 # Display the figure

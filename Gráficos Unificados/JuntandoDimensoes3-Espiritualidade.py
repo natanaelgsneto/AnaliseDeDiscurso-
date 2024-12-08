@@ -90,7 +90,7 @@ fig.update_layout(
             range=[0, 56]
         )),
     showlegend=True,
-    title="                         Categoria: Espiritualidade                                                           "
+    title="                         Categoria de análise: Espiritualidade                                                           "
 )
 
 # Display the figure

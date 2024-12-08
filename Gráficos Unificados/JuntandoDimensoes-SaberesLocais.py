@@ -91,7 +91,7 @@ fig.update_layout(
             range=[0, 44]
         )),
     showlegend=True,
-    title="                        Categoria:  Saberes Locais                                                           "
+    title="                        Categoria de análise:  Saberes Locais                                                           "
 )
 
 # Display the figure
