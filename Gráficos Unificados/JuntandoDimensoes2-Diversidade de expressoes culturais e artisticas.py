@@ -81,7 +81,7 @@ fig.add_trace(go.Scatterpolar(
     r=[15, 7, 2],
     theta=categories,
     fill='toself',
-    name='Aldeia Servero Bernardo'
+    name='Aldeia Severo Bernardo'
 ))
 
 # Updating the layout to adjust the radial axis range and make the legend visible
@@ -92,7 +92,7 @@ fig.update_layout(
             range=[0, 52]
         )),
     showlegend=True,
-    title="                          Categoria de análise: Diversidade de expressões culturais e artísticas                                                           "
+    title="                          Categoria de análise: Diversidade de expressões culturais                                                          "
 )
 
 # Display the figure

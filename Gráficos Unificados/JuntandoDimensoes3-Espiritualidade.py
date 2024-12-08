@@ -79,7 +79,7 @@ fig.add_trace(go.Scatterpolar(
     r=[2, 7, 4],
     theta=categories,
     fill='toself',
-    name='Aldeia Servero Bernardo'
+    name='Aldeia Severo Bernardo'
 ))
 
 # Updating the layout to adjust the radial axis range and make the legend visible
