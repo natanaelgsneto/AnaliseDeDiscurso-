@@ -58,21 +58,26 @@ fig.add_trace(go.Scatterpolar(
     r=[21, 23,3],
     theta=categories,
     fill='toself',
-    name='Aldeia Barra de Gramame'
+    name='Aldeia Barra de Gramame',
+    marker=dict(color='blue'),  # Define a cor da linha
+
 ))
 
 fig.add_trace(go.Scatterpolar(
     r=[14,21,2],
     theta=categories,
     fill='toself',
-    name='Aldeia Vitória'
+    name='Aldeia Vitória',
+    marker=dict(color='red'),  # Define a cor da linha
 ))
 
 fig.add_trace(go.Scatterpolar(
     r=[7, 49, 2],
     theta=categories,
     fill='toself',
-    name='Aldeia Nova conquista Taquara'
+    name='Aldeia Nova conquista Taquara',
+    marker=dict(color='green'),  # Define a cor da linha
+
 ))
 
 
@@ -81,7 +86,9 @@ fig.add_trace(go.Scatterpolar(
     r=[15, 7, 2],
     theta=categories,
     fill='toself',
-    name='Aldeia Severo Bernardo'
+    name='Aldeia Severo Bernardo',
+    marker=dict(color='purple'),  # Define a cor da linha
+
 ))
 
 # Updating the layout to adjust the radial axis range and make the legend visible

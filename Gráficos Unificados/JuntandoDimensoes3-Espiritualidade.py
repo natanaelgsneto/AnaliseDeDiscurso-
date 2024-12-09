@@ -55,32 +55,44 @@ fig = go.Figure()
 
 # Adding traces for each group with the same number of data points in 'r' as there are categories
 fig.add_trace(go.Scatterpolar(
+    r=[3, 2, 7],
+    theta=categories,
+    name='Aldeia Nova conquista Taquara',
+    fill='toself',
+    marker=dict(color='green'),  # Define a cor da linha
+
+))
+fig.add_trace(go.Scatterpolar(
     r=[54, 6,5],
     theta=categories,
     fill='toself',
-    name='Aldeia Barra de Gramame'
-))
+    name='Aldeia Barra de Gramame',
+    marker=dict(color='red'),  # Define a cor da linha
 
-fig.add_trace(go.Scatterpolar(
-    r=[2, 2, 7],
-    theta=categories,
-    fill='toself',
-    name='Aldeia Nova conquista Taquara'
-))
-
-fig.add_trace(go.Scatterpolar(
-    r=[3,40,11],
-    theta=categories,
-    fill='toself',
-    name='Aldeia Vitória'
 ))
 
 fig.add_trace(go.Scatterpolar(
     r=[2, 7, 4],
     theta=categories,
     fill='toself',
-    name='Aldeia Severo Bernardo'
+    name='Aldeia Severo Bernardo',
+    marker=dict(color='purple'),  # Define a cor da linha
+
 ))
+
+
+
+fig.add_trace(go.Scatterpolar(
+    r=[3,40,11],
+    theta=categories,
+    fill='toself',
+    name='Aldeia Vitória',
+    marker=dict(color='blue'),  # Define a cor da linha
+
+))
+
+
+
 
 # Updating the layout to adjust the radial axis range and make the legend visible
 fig.update_layout(
