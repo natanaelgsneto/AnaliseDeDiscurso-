@@ -38,7 +38,7 @@ fig.update_layout(
             range=[0, 50]
         )),
     showlegend=False,
-    title="Povo Tabajara - Categoria Saberes Locais (292,00%)"
+    title="Povo Tabajara - Categoria Saberes Locais(292,00%)"
 )
 
 # Display the figure
