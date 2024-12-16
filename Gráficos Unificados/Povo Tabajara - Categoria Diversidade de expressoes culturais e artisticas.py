@@ -102,7 +102,7 @@ fig.update_layout(
             range=[0, 56]
         )),
     showlegend=False,
-    title="                         Povo Tabajara - Categoria  Espiritualidade  (143%)                                                         "
+    title="                         Povo Tabajara - Categoria Diversidade de expressoes culturais e artisticas(166,00%)                                                     "
 )
 
 # Display the figure
