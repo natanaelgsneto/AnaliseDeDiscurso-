@@ -6,7 +6,7 @@ categories = ['Medicina indigena','Parteiras','Rezadeiras/ benzedoras',
 fig = go.Figure()
 
 fig.add_trace(go.Scatterpolar(
-    r=[2, 1, 8, 13, 28,43],
+    r=[89, 0, 0, 0,0],
     theta=categories,
     fill='toself',
     name='Aldeia Barra de Gramame ',
@@ -43,7 +43,7 @@ fig.update_layout(
     polar=dict(
         radialaxis=dict(
             visible=True,
-            range=[0, 50]
+            range=[0, 100]
         )),
     showlegend=False,
     title="Povo Tabajara - Categoria Saberes Locais(292,00%)"

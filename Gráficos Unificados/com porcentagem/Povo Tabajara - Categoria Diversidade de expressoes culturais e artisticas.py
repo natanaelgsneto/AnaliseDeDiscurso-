@@ -48,39 +48,31 @@
 
 import plotly.graph_objects as go
 
-categories = ['Diversidade de rituais','Formas de manifestações espirituais','Fé']
-
+categories = ['Danças e Cantos(34,33%)','Artesanatos(60,24%)','Grafismo Indígena(54,2%)']
 # Create a new figure
 fig = go.Figure()
 
 
-
 fig.add_trace(go.Scatterpolar(
-    r=[54, 6,5],
+    r=[21, 23,5],
     theta=categories,
     fill='toself',
     name='Aldeia Barra de Gramame',
     marker=dict(color='yellow'),  # Define a cor da linha
 
 ))
+
 # Adding traces for each group with the same number of data points in 'r' as there are categories
-
-
-
-
 fig.add_trace(go.Scatterpolar(
-    r=[2,40,11],
+    r=[7, 49, 2],
     theta=categories,
+    name='Aldeia Nova conquista Taquara',
     fill='toself',
-    name='Aldeia Vitória',
     marker=dict(color='blue'),  # Define a cor da linha
 
 ))
-
-
-
 fig.add_trace(go.Scatterpolar(
-    r=[2, 7, 4],
+    r=[21, 23, 3],
     theta=categories,
     fill='toself',
     name='Aldeia Severo Bernardo',
@@ -89,14 +81,17 @@ fig.add_trace(go.Scatterpolar(
 ))
 
 
+
 fig.add_trace(go.Scatterpolar(
-    r=[3, 2, 7],
+    r=[14,21,2],
     theta=categories,
-    name='Aldeia Nova conquista Taquara',
     fill='toself',
-    marker=dict(color='Lime')  # Define a cor da linha
+    name='Aldeia Vitória',
+    marker=dict(color='Lime'),  # Define a cor da linha
 
 ))
+
+
 
 
 # Updating the layout to adjust the radial axis range and make the legend visible
@@ -106,8 +101,8 @@ fig.update_layout(
             visible=True,
             range=[0, 56]
         )),
-    showlegend=True,
-    title="                         Povo Tabajara - Categoria  Espiritualidade(143%)                                                         "
+    showlegend=False,
+    title="                         Povo Tabajara - Categoria Diversidade de expressoes culturais e artisticas(166,00%)                                                     "
 )
 
 # Display the figure
