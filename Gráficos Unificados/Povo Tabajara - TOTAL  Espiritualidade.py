@@ -48,7 +48,7 @@
 
 import plotly.graph_objects as go
 
-categories = ['Diversidade de rituais','Formas de manifestações espirituais','Fé']
+categories = ['Diversidade de rituais(42,65%)','Formas de manifestações espirituais(38,46%)','Fé(18,88)']
 
 # Create a new figure
 fig = go.Figure()
@@ -56,7 +56,7 @@ fig = go.Figure()
 
 
 fig.add_trace(go.Scatterpolar(
-    r=[89, 0,0],
+    r=[54, 6,5],
     theta=categories,
     fill='toself',
     name='Aldeia Barra de Gramame',
@@ -69,7 +69,7 @@ fig.add_trace(go.Scatterpolar(
 
 
 fig.add_trace(go.Scatterpolar(
-    r=[9,0,0],
+    r=[2,40,11],
     theta=categories,
     fill='toself',
     name='Aldeia Vitória',
@@ -80,7 +80,7 @@ fig.add_trace(go.Scatterpolar(
 
 
 fig.add_trace(go.Scatterpolar(
-    r=[19, 0, 0],
+    r=[2, 7, 4],
     theta=categories,
     fill='toself',
     name='Aldeia Severo Bernardo',
@@ -90,7 +90,7 @@ fig.add_trace(go.Scatterpolar(
 
 
 fig.add_trace(go.Scatterpolar(
-    r=[33, 2, 7],
+    r=[3, 2, 7],
     theta=categories,
     name='Aldeia Nova conquista Taquara',
     fill='toself',
@@ -104,7 +104,7 @@ fig.update_layout(
     polar=dict(
         radialaxis=dict(
             visible=True,
-            range=[0, 100]
+            range=[0, 56]
         )),
     showlegend=False,
     title="                         Povo Tabajara - Categoria  Espiritualidade(143%)                                                         "
