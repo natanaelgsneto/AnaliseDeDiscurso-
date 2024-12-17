@@ -1,7 +1,7 @@
 import plotly.graph_objects as go
 
 categories = ['Medicina indigena','Parteiras','Rezadeiras/ benzedoras',
-              'Simbolos de proteção','Valorizacao da oralidade e saberes ancestrais','Valorizacao dos sinais da natureza']
+              'Simbolos de proteção','Valorização da oralidade e saberes ancestrais','Valorização dos sinais da natureza']
 
 fig = go.Figure()
 
