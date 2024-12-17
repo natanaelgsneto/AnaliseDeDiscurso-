@@ -83,7 +83,7 @@ fig.add_trace(go.Scatterpolar(
 
 
 fig.add_trace(go.Scatterpolar(
-    r=[3,40,11],
+    r=[2,40,11],
     theta=categories,
     fill='toself',
     name='Aldeia Vitória',

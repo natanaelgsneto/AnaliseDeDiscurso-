@@ -48,14 +48,13 @@
 
 import plotly.graph_objects as go
 
-categories = ['Diversidade de rituais','Formas de manifestações espirituais','Fé']
-
+categories = ['Danças e Cantos','Artesanatos','Grafismo Indígena']
 # Create a new figure
 fig = go.Figure()
 
 # Adding traces for each group with the same number of data points in 'r' as there are categories
 fig.add_trace(go.Scatterpolar(
-    r=[3, 2, 7],
+    r=[7, 49, 2],
     theta=categories,
     name='Aldeia Nova conquista Taquara',
     fill='toself',
@@ -63,7 +62,7 @@ fig.add_trace(go.Scatterpolar(
 
 ))
 fig.add_trace(go.Scatterpolar(
-    r=[54, 6,5],
+    r=[21, 23,3],
     theta=categories,
     fill='toself',
     name='Aldeia Barra de Gramame',
@@ -72,7 +71,7 @@ fig.add_trace(go.Scatterpolar(
 ))
 
 fig.add_trace(go.Scatterpolar(
-    r=[2, 7, 4],
+    r=[15, 7, 2],
     theta=categories,
     fill='toself',
     name='Aldeia Severo Bernardo',
@@ -83,7 +82,7 @@ fig.add_trace(go.Scatterpolar(
 
 
 fig.add_trace(go.Scatterpolar(
-    r=[3,40,11],
+    r=[14,21,2],
     theta=categories,
     fill='toself',
     name='Aldeia Vitória',
