@@ -9,27 +9,35 @@ fig.add_trace(go.Scatterpolar(
     r=[2, 1, 8, 13, 28,43],
     theta=categories,
     fill='toself',
-    name='Aldeia Barra de Gramame '
+    name='Aldeia Barra de Gramame ',
+    marker=dict(color='yellow')  # Define a cor da linha
+
 ))
 fig.add_trace(go.Scatterpolar(
      r=[25, 7, 4, 14, 22,3],
      theta=categories,
      fill='toself',
-     name='Aldeia Nova conquista Taquara'
+     name='Aldeia Nova conquista Taquara',
+    marker=dict(color='blue'),  # Define a cor da linha
+
 ))
 
 fig.add_trace(go.Scatterpolar(
      r=[23, 1,6, 0,10,30],
      theta=categories,
      fill='toself',
-     name='Aldeia Vitória'
+     name='Aldeia Vitória',
+     marker=dict(color='red'),  # Define a cor da linha
+
 ))
 
 fig.add_trace(go.Scatterpolar(
      r=[39, 0, 1,6,3,3],
      theta=categories,
      fill='toself',
-     name='Aldeia Servero Bernardo'
+     name='Aldeia Servero Bernardo',
+     marker=dict(color='Lime')  # Define a cor da linha
+
 ))
 fig.update_layout(
     polar=dict(

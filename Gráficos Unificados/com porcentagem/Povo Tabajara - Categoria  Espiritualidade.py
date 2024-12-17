@@ -48,46 +48,46 @@
 
 import plotly.graph_objects as go
 
-categories = ['Danças e Cantos','Artesanatos','Grafismo Indígena']
+categories = ['Diversidade de rituais(42,65%)','Formas de manifestações espirituais(','Fé']
+
 # Create a new figure
 fig = go.Figure()
 
-
-fig.add_trace(go.Scatterpolar(
-    r=[21, 23,5],
-    theta=categories,
-    fill='toself',
-    name='Aldeia Barra de Gramame',
-    marker=dict(color='yellow'),  # Define a cor da linha
-
-))
-
 # Adding traces for each group with the same number of data points in 'r' as there are categories
 fig.add_trace(go.Scatterpolar(
-    r=[7, 49, 2],
+    r=[3, 2, 7],
     theta=categories,
     name='Aldeia Nova conquista Taquara',
     fill='toself',
-    marker=dict(color='blue'),  # Define a cor da linha
+    marker=dict(color='green'),  # Define a cor da linha
 
 ))
 fig.add_trace(go.Scatterpolar(
-    r=[21, 23, 3],
+    r=[54, 6,5],
     theta=categories,
     fill='toself',
-    name='Aldeia Severo Bernardo',
+    name='Aldeia Barra de Gramame',
     marker=dict(color='red'),  # Define a cor da linha
 
 ))
 
+fig.add_trace(go.Scatterpolar(
+    r=[2, 7, 4],
+    theta=categories,
+    fill='toself',
+    name='Aldeia Severo Bernardo',
+    marker=dict(color='purple'),  # Define a cor da linha
+
+))
+
 
 
 fig.add_trace(go.Scatterpolar(
-    r=[14,21,2],
+    r=[2,40,11],
     theta=categories,
     fill='toself',
     name='Aldeia Vitória',
-    marker=dict(color='Lime'),  # Define a cor da linha
+    marker=dict(color='blue'),  # Define a cor da linha
 
 ))
 
@@ -102,7 +102,7 @@ fig.update_layout(
             range=[0, 56]
         )),
     showlegend=False,
-    title="                         Povo Tabajara - Categoria Diversidade de expressoes culturais e artisticas(166,00%)                                                     "
+    title="                         Povo Tabajara - Categoria  Espiritualidade(143%)                                                         "
 )
 
 # Display the figure

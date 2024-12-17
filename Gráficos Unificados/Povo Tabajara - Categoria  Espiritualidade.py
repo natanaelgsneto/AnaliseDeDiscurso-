@@ -53,32 +53,18 @@ categories = ['Diversidade de rituais','Formas de manifestações espirituais','
 # Create a new figure
 fig = go.Figure()
 
-# Adding traces for each group with the same number of data points in 'r' as there are categories
-fig.add_trace(go.Scatterpolar(
-    r=[3, 2, 7],
-    theta=categories,
-    name='Aldeia Nova conquista Taquara',
-    fill='toself',
-    marker=dict(color='green'),  # Define a cor da linha
 
-))
+
 fig.add_trace(go.Scatterpolar(
     r=[54, 6,5],
     theta=categories,
     fill='toself',
     name='Aldeia Barra de Gramame',
-    marker=dict(color='red'),  # Define a cor da linha
+    marker=dict(color='yellow'),  # Define a cor da linha
 
 ))
+# Adding traces for each group with the same number of data points in 'r' as there are categories
 
-fig.add_trace(go.Scatterpolar(
-    r=[2, 7, 4],
-    theta=categories,
-    fill='toself',
-    name='Aldeia Severo Bernardo',
-    marker=dict(color='purple'),  # Define a cor da linha
-
-))
 
 
 
@@ -93,6 +79,25 @@ fig.add_trace(go.Scatterpolar(
 
 
 
+fig.add_trace(go.Scatterpolar(
+    r=[2, 7, 4],
+    theta=categories,
+    fill='toself',
+    name='Aldeia Severo Bernardo',
+    marker=dict(color='red'),  # Define a cor da linha
+
+))
+
+
+fig.add_trace(go.Scatterpolar(
+    r=[3, 2, 7],
+    theta=categories,
+    name='Aldeia Nova conquista Taquara',
+    fill='toself',
+    marker=dict(color='Lime')  # Define a cor da linha
+
+))
+
 
 # Updating the layout to adjust the radial axis range and make the legend visible
 fig.update_layout(
@@ -101,7 +106,7 @@ fig.update_layout(
             visible=True,
             range=[0, 56]
         )),
-    showlegend=False,
+    showlegend=True,
     title="                         Povo Tabajara - Categoria  Espiritualidade(143%)                                                         "
 )
 
