@@ -1,114 +1,136 @@
-# import plotly.graph_objects as go
+import matplotlib.pyplot as plt
+import pandas as pd
+from math import pi
+
+# Set data
+df = pd.DataFrame({
+    'group': ['A', 'B', 'C', 'D'],
+    'Diversidade de rituais(42,65%)': [61,0,0,0],
+    '                                                                    Formas de manifestacoes espirituais(38,46%)  ': [55, 0, 0, 0],
+    'Fé(18,88%)           ': [27, 0, 0, 0],
+})
+# ------- PART 1: Create background
+
+# number of variable
+categories = list(df)[1:]
+N = len(categories)
+
+# What will be the angle of each axis in the plot? (we divide the plot / number of variable)
+angles = [n / float(N) * 2 * pi for n in range(N)]
+angles += angles[:1]
+
+# Initialise the spider plot
+ax = plt.subplot(111, polar=True)
+
+# If you want the first axis to be on top:
+ax.set_theta_offset(pi / 2)
+ax.set_theta_direction(-1)
+
+# Draw one axe per variable + add labels
+plt.xticks(angles[:-1], categories)
+
+# Draw ylabels
+ax.set_rlabel_position(0)
+plt.yticks([10, 20, 30,40,50,60,70], ["10", "20", "30","40","50","60","70"], color="grey", size=7)
+plt.ylim(0, 72)
+
+# ------- PART 2: Add plots
+
+# Plot each individual = each line of the data
+# I don't make a loop, because plotting more than 3 groups makes the chart unreadable
+
+# Ind1
+values = df.loc[0].drop('group').values.flatten().tolist()
+values += values[:1]
+ax.plot(angles, values, linewidth=1, linestyle='solid')
+ax.fill(angles, values, 'b', alpha=0.1)
 #
-# from Graph import title
+# # Ind2
+# values = df.loc[1].drop('group').values.flatten().tolist()
+# values += values[:1]
+# ax.plot(angles, values, linewidth=1, linestyle='solid', label="group B")
+# ax.fill(angles, values, 'r', alpha=0.1)
 #
-# categories = ['medicina indigena','Parteiras','Rezadeiras/ benzedoras',
-#               'Simbolos de proteção','Valorizacao da oralidade e saberes ancestrais','Valorizacao da oralidade e saberes ancestrais','Valorizacao dos sinais da natureza']
+# # Ind3
 #
-# fig = go.Figure()
+# values = df.loc[1].drop('group').values.flatten().tolist()
+# values += values[:1]
+# ax.plot(angles, values, linewidth=1, linestyle='solid', label="group B")
+# ax.fill(angles, values, 'r', alpha=0.1)
 #
-# fig.add_trace(go.Scatterpolar(
-#     r=[2, 1, 8, 13, 28,43],
-#     theta=categories,
-#     fill='toself',
-#     name='Aldeia Barra de Gramame'
-# ))
-# fig.add_trace(go.Scatterpolar(
-#     r=[25, 7, 4, 14, 22,3],
-#     theta=categories,
-#     fill='toself',
-#     name='Aldeia Nova conquista Taquara'
-# ))
+# # Ind4
 #
-# fig.add_trace(go.Scatterpolar(
-#     r=[23, 1,6, 0,10,30],
-#     theta=categories,
-#     fill='toself',
-#     name='Aldeia Vitória'
-# ))
 #
-# fig.add_trace(go.Scatterpolar(
-#     r=[39, 0, 1,6,3,3],
-#     theta=categories,
-#     fill='toself',
-#     name='Aldeia Servero Bernardo'
-# ))
-# fig.update_layout(
-#     polar=dict(
-#         radialaxis=dict(
-#             visible=True,
-#             range=[0, 50]
-#         )),
-#     showlegend=True,
-#     title="Comparação de Saberes Ancestrais nas Aldeias"
-# )
+# values = df.loc[1].drop('group').values.flatten().tolist()
+# values += values[:1]
+# ax.plot(angles, values, linewidth=1, linestyle='solid', label="group B")
+# ax.fill(angles, values, 'r', alpha=0.1)
 #
-# # Display the figure
-# fig.show()
-
-import plotly.graph_objects as go
-
-categories = ['Diversidade de rituais(42,65%)','Formas de manifestações espirituais(38,46%)','Fé(18,88)']
-
-# Create a new figure
-fig = go.Figure()
-
-
-
-fig.add_trace(go.Scatterpolar(
-    r=[54, 6,5],
-    theta=categories,
-    fill='toself',
-    name='Aldeia Barra de Gramame',
-    marker=dict(color='yellow'),  # Define a cor da linha
-
-))
-# Adding traces for each group with the same number of data points in 'r' as there are categories
-
-
-
-
-fig.add_trace(go.Scatterpolar(
-    r=[2,40,11],
-    theta=categories,
-    fill='toself',
-    name='Aldeia Vitória',
-    marker=dict(color='blue'),  # Define a cor da linha
-
-))
-
-
-
-fig.add_trace(go.Scatterpolar(
-    r=[2, 7, 4],
-    theta=categories,
-    fill='toself',
-    name='Aldeia Severo Bernardo',
-    marker=dict(color='red'),  # Define a cor da linha
-
-))
+#
+# # Ind5
+#
+#
+# values = df.loc[1].drop('group').values.flatten().tolist()
+# values += values[:1]
+# ax.plot(angles, values, linewidth=1, linestyle='solid', label="group B")
+# ax.fill(angles, values, 'r', alpha=0.1)
+#
+#
+# # Ind6
+#
+#
+# values = df.loc[1].drop('group').values.flatten().tolist()
+# values += values[:1]
+# ax.plot(angles, values, linewidth=1, linestyle='solid', label="group B")
+# ax.fill(angles, values, 'r', alpha=0.1)
+#
+#
+# # Ind7
+#
+#
+# values = df.loc[1].drop('group').values.flatten().tolist()
+# values += values[:1]
+# ax.plot(angles, values, linewidth=1, linestyle='solid', label="group B")
+# ax.fill(angles, values, 'r', alpha=0.1)
+#
+#
+# # Ind8
+#
+#
+# values = df.loc[1].drop('group').values.flatten().tolist()
+# values += values[:1]
+# ax.plot(angles, values, linewidth=1, linestyle='solid', label="group B")
+# ax.fill(angles, values, 'r', alpha=0.1)
 
 
-fig.add_trace(go.Scatterpolar(
-    r=[3, 2, 7],
-    theta=categories,
-    name='Aldeia Nova conquista Taquara',
-    fill='toself',
-    marker=dict(color='Lime')  # Define a cor da linha
+# Ind9
 
-))
+#
+# values = df.loc[1].drop('group').values.flatten().tolist()
+# values += values[:1]
+# ax.plot(angles, values, linewidth=1, linestyle='solid', label="group B")
+# ax.fill(angles, values, 'r', alpha=0.1)
 
 
-# Updating the layout to adjust the radial axis range and make the legend visible
-fig.update_layout(
-    polar=dict(
-        radialaxis=dict(
-            visible=True,
-            range=[0, 56]
-        )),
-    showlegend=False,
-    title="                         Povo Tabajara - Categoria  Espiritualidade(143%)                                                         "
-)
+# Ind11
+#
+#
+# values = df.loc[1].drop('group').values.flatten().tolist()
+# values += values[:1]
+# ax.plot(angles, values, linewidth=1, linestyle='solid', label="group B")
+# ax.fill(angles, values, 'r', alpha=0.1)
+#
 
-# Display the figure
-fig.show()
+# Ind12
+
+#
+# values = df.loc[1].drop('group').values.flatten().tolist()
+# values += values[:1]
+# ax.plot(angles, values, linewidth=1, linestyle='solid', label="group B")
+# ax.fill(angles, values, 'r', alpha=0.1)
+
+# Add legend
+plt.legend(loc='right', bbox_to_anchor=(-0.10, 0.1))
+plt.title("Povo Tabajara - Categoria Espiritualidade\n")
+# Show the graph
+plt.show()
