@@ -5,9 +5,11 @@ from math import pi
 # Set data
 df = pd.DataFrame({
     'group': ['A', 'B', 'C', 'D'],
-    'Danças e cantos(34,33%)': [57,0,0,0],
-    '                                                                                                   Artesanatos(60,24%)                                                                   ': [100, 0, 0, 0],
-    'Grafismo Indígena(5,42%)                                      ': [9, 0, 0, 0]    })
+    'Danças e Cantos(34,33%)': [57,0,0,0],
+    '                                                           Artesanatos(60,24%)                                  ': [100, 0, 0, 0],
+    'Grafismo Indígena(5,42%)                                  ': [9, 0, 0, 0]                                          ,
+
+})
 
 # ------- PART 1: Create background
 
@@ -31,8 +33,7 @@ plt.xticks(angles[:-1], categories)
 
 # Draw ylabels
 ax.set_rlabel_position(0)
-plt.yticks([10, 20, 30,40,50,60,70,80,90], ["10", "20", "30","40","50","60","70","80","90"], color="grey", size=7)
-plt.ylim(0, 102)
+plt.ylim(0, 110)
 
 # ------- PART 2: Add plots
 
@@ -42,7 +43,7 @@ plt.ylim(0, 102)
 # Ind1
 values = df.loc[0].drop('group').values.flatten().tolist()
 values += values[:1]
-ax.plot(angles, values, linewidth=1, linestyle='solid', label="Diversidade de expressões culturais ")
+ax.plot(angles, values)
 ax.fill(angles, values, 'b', alpha=0.1)
 #
 # # Ind2
@@ -130,7 +131,7 @@ ax.fill(angles, values, 'b', alpha=0.1)
 # ax.fill(angles, values, 'r', alpha=0.1)
 
 # Add legend
-#plt.legend(loc='right', bbox_to_anchor=(-0.10, 0.1))
-plt.title("Povo Tabajara - Categoria Diversidade de expressões culturais\n")
+#Eplt.legend(loc='right', bbox_to_anchor=(-0.10, 0.1))
+plt.title("Povo Tabajara-Pb - Categoria Diversidade de expressões culturais\n")
 # Show the graph
 plt.show()

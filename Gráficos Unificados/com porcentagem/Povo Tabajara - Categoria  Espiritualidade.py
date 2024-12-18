@@ -131,6 +131,6 @@ ax.fill(angles, values, 'b', alpha=0.1)
 
 # Add legend
 plt.legend(loc='right', bbox_to_anchor=(-0.10, 0.1))
-plt.title("Povo Tabajara - Categoria Espiritualidade\n")
+plt.title("Povo Tabajara-Pb - Categoria  Espiritualidade\n")
 # Show the graph
 plt.show()

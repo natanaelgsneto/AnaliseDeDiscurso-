@@ -36,7 +36,7 @@ plt.xticks(angles[:-1], categories)
 # Draw ylabels
 ax.set_rlabel_position(0)
 plt.yticks([10, 20, 30,40,50,60,70,80,90], ["10", "20", "30","40","50","60","70","80","90"], color="grey", size=7)
-plt.ylim(0, 90)
+plt.ylim(0, 92)
 
 # ------- PART 2: Add plots
 
@@ -135,6 +135,6 @@ ax.fill(angles, values, 'b', alpha=0.1)
 
 # Add legend
 #Eplt.legend(loc='right', bbox_to_anchor=(-0.10, 0.1))
-plt.title("Povo Tabajara - Categoria Saberes Locais\n")
+plt.title("Povo Tabajara-Pb - Categoria Saberes Locais\n")
 # Show the graph
 plt.show()
