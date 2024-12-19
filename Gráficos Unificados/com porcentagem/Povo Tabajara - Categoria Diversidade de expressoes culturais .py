@@ -132,6 +132,6 @@ ax.fill(angles, values, 'b', alpha=0.1)
 
 # Add legend
 #Eplt.legend(loc='right', bbox_to_anchor=(-0.10, 0.1))
-plt.title("Povo Tabajara-Pb - Categoria Diversidade de expressões culturais\n")
+plt.title("Povo Tabajara-Pb - Categoria Diversidade de Expressões Culturais\n")
 # Show the graph
 plt.show()
